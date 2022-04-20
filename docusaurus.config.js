@@ -43,24 +43,32 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
           alt: 'KALLA Project Logo',
           src: 'img/logokg.png',
         },
         items: [
+          //{
+          //  type: 'doc',
+          //  docId: 'intro',
+          //  position: 'left',
+          //  label: 'Tutorial',
+          //},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'systemovervie',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {href: '#', label: 'FAQ', position: 'left'},
+
+          //{
+          //  href: 'https://github.com/facebook/docusaurus',
+          //  label: 'GitHub',
+          //  position: 'right',
+          //},
         ],
       },
       footer: {
@@ -106,7 +114,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DMS Services, Inc. Built with CICT Kalla Group.`,
       },
       prism: {
         theme: lightCodeTheme,
