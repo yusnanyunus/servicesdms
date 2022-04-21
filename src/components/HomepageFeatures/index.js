@@ -4,13 +4,13 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/kiri.svg').default,
   },
   {
     Svg: require('@site/static/img/logodms.svg').default,
   },
   {
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/kanan.svg').default,
   },
 ];
 
