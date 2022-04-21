@@ -59,7 +59,7 @@ Keterangan :
 |Program	| Program untuk job|
 |Insurance	| Nama asuransi yang menanggung tagihan job|
 |Stall	| Tempat pengerjaan job|
-|Job Status | **None** : Status awal Job, **Planned** : Tidak terpakai, **Canceled** : Job dibatalkan, **Started** : Job dimulai, **On progress** : Job dalam pengerjaan, **Paused** : Job dihentikan sementara, **Completed** : Job telah selesai, **Unsolved** : Job tidak dapat diselesaikan, **Under sublet** : Job dalam pengerjaan luar bengkel|
+|Job Status | **None** : Status awal Job, **On progress** : Job dalam pengerjaan, **Paused** : Job dihentikan sementara, **Completed** : Job telah selesai|
 |Sub Total | Nilai dari Job sebelum pajak, diskon, tanggungan asuransi dan program|
 |Discount Percentage | Persentase diskon|
 |Discount Amount | Nilai diskon yang diberikan|

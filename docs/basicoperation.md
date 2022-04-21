@@ -61,7 +61,7 @@ Berikut ini adalah penjelasan tampilan icon pada list view.
 | ![Docusaurus Plushie](img_basicoperation/btn/2.png) | **Edit** : Ubah Data, **Delete** : Hapus Data |
 | ![Docusaurus Plushie](img_basicoperation/btn/3.png) | Filter untuk menampilkan jumlah data yang tampil. |
 | ![Docusaurus Plushie](img_basicoperation/btn/4.png) | Menampilkan data berdasarkan keyword text yang di input. |
-| ![Docusaurus Plushie](img_basicoperation/btn/5.png) | Mencetak bukti bayar, yang nantinya kustomer memberikan kepada kasir bahwa invoice telah terbauar. |
+| ![Docusaurus Plushie](img_basicoperation/btn/5.png) | Mencetak bukti bayar, yang nantinya kustomer memberikan kepada kasir bahwa invoice telah terbayar. |
 | ![Docusaurus Plushie](img_basicoperation/btn/6.png) | Menambah keluhan kustomer |
 | ![Docusaurus Plushie](img_basicoperation/btn/7.png) | Menambah job pengerjaan |
 | ![Docusaurus Plushie](img_basicoperation/btn/8.png) | Menambah Part untuk pengerjaan |
