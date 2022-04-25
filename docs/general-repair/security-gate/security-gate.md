@@ -9,7 +9,7 @@ tags: [security, nomor antrian, antrian customer]
 
 > Customer yang telah booking atau pun walk-in ke cabang untuk service akan di input nomor plat kendaraannya di bagian security. lalu data nomor kendaraan yang telah dimasukkan akan secara otomatis masuk ke dalam monitor sistem antrian di ruangan penerimaan service.
 
-![Docusaurus Plushie](/img/security-gate/1.png)
+![Docusaurus Plushie](/img/general-repair/security-gate/1.png)
 
 | Elemen UI | Deskripsi |
 |--------|--------|
@@ -27,4 +27,4 @@ tags: [security, nomor antrian, antrian customer]
 
 Setelah security selesai menginput data plat nomor kendaraan, maka otomatis diarahkan untuk mencetat tiket antrian :
 
-![Docusaurus Plushie](/img/security-gate/2.png)
+![Docusaurus Plushie](/img/general-repair/security-gate/2.png)

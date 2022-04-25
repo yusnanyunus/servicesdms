@@ -9,7 +9,7 @@ tags : [Invoicing, service invoice, program invoice, insurance invoice, billing,
 
 > Setelah pengecekan data dokumen pada Work Order telah selesai dilakukan oleh Service Advisor, Work Order tersebut dapat diproses untuk dilanjutkan ke proses Invoicing oleh petugas Billing. 
 
-![Docusaurus Plushie](/img/invoicing/1.png)
+![Docusaurus Plushie](/img/general-repair/invoicing/1.png)
 
 Berikut ini adalah Invoice yang dapat di-generate oleh petugas Billing, yaitu:
 
@@ -19,16 +19,16 @@ Berikut ini adalah Invoice yang dapat di-generate oleh petugas Billing, yaitu:
 
 Untuk memulai proses Invoicing, klik   lalu akan muncul tampilan seperti dibawah ini.
 
-![Docusaurus Plushie](/img/invoicing/2.png)
+![Docusaurus Plushie](/img/general-repair/invoicing/2.png)
 
-Setelah Billing menekan tombol ![Docusaurus Plushie](/img/invoicing/serviceinvoice.png), maka proses invoice telah selesai jika Work Order tersebut tidak mempunyai **Program** atau **Insurance**. Untuk Work Order yang mempunyai **Program** maka otomatis tombol ![Docusaurus Plushie](/img/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/invoicing/programinvoice.png) seperti gambar dibawah ini.
+Setelah Billing menekan tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png), maka proses invoice telah selesai jika Work Order tersebut tidak mempunyai **Program** atau **Insurance**. Untuk Work Order yang mempunyai **Program** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/programinvoice.png) seperti gambar dibawah ini.
 
-![Docusaurus Plushie](/img/invoicing/3.png)
+![Docusaurus Plushie](/img/general-repair/invoicing/3.png)
 
 Setelah Work Order telah selesai di proses dan menjadi invoice, maka Work Order tersebut akan muncul di menu Service Invoice, seperti gambar di bawah ini.
 
-![Docusaurus Plushie](/img/invoicing/4.png)
+![Docusaurus Plushie](/img/general-repair/invoicing/4.png)
 
-Billing juga dapat mencetak Service Invoice dengan cara klik ![Docusaurus Plushie](/img/invoicing/tigatitik.png) lalu ![Docusaurus Plushie](/img/invoicing/printinvoice.png) maka tampilan nya seperti berikut.
+Billing juga dapat mencetak Service Invoice dengan cara klik ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu ![Docusaurus Plushie](/img/general-repair/invoicing/printinvoice.png) maka tampilan nya seperti berikut.
 
-![Docusaurus Plushie](/img/invoicing/5.png)
+![Docusaurus Plushie](/img/general-repair/invoicing/5.png)

@@ -7,7 +7,7 @@ tags: [work order, service advisor, SA, estimation, diagnose, purchase part, cus
 
 ### Create Work Order
 
-![Docusaurus Plushie](/img/create-wo/1.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/1.png)
 
 > Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas. Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View:
 
@@ -33,20 +33,20 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 ---
 ### Customer Request
 
-![Docusaurus Plushie](/img/create-wo/2.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/2.png)
 
-![Docusaurus Plushie](/img/create-wo/3.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/3.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/create-wo/addcustomerreq.png).
+1. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addcustomerreq.png).
 2. Deskripsikan keluhan atau permintaan kustomer
-3. Klik tombol ![Docusaurus Plushie](/img/create-wo/save.png)
+3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
 
 
 ---
 ### Job Order
 
-![Docusaurus Plushie](/img/create-wo/4.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/4.png)
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
@@ -69,18 +69,18 @@ Keterangan :
 |Subtotal On Customer | Nilai tagihan yang ditanggung langsung oleh kustomer|
 |Sublet	| **YES** : Jika pengerjaan luar bengkel, **NO** : bukan pengerjaan luar bengkel|
 
-![Docusaurus Plushie](/img/create-wo/5.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/5.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/create-wo/addjoborder.png).
+1. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addjoborder.png).
 2. Lengkapi inputan yang mandatori*
-3. Klik tombol ![Docusaurus Plushie](/img/create-wo/save.png)
+3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
 
 
 ---
 ### Part Order
 
-![Docusaurus Plushie](/img/create-wo/6.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/6.png)
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
@@ -98,9 +98,9 @@ Keterangan :
 | Discount Percentage | Persentase diskon |
 | Discount Amount | Nilai diskon yang diberikan |
 
-![Docusaurus Plushie](/img/create-wo/7.png)
+![Docusaurus Plushie](/img/general-repair/create-wo/7.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/create-wo/addpart.png).
+1. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addpart.png).
 2. Lengkapi inputan yang mandatori *
-3. Klik tombol ![Docusaurus Plushie](/img/create-wo/save.png)
+3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)

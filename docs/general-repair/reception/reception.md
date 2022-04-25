@@ -17,15 +17,15 @@ Lihat pada bagian **[Security Gate](http://localhost:3000/docs/general-repair/se
 ---
 ### **Reception Queue Dashboard (Dashboard Antrian)**.
 
-Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monitor berukuran minimum 32” dan disarankan untuk menggunakan pengeras suara jika ruang tunggu service berukuran luas atau dengan tingkat kebisingan sedang. Aplikasi ini menampilkan daftar antrian aktif yang dapat dilihat langsung oleh Customer dan menghasilkan suara panggilan ketika Service Advisor melakukan aksi ![Docusaurus Plushie](/img/reception/next.png). 
+Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monitor berukuran minimum 32” dan disarankan untuk menggunakan pengeras suara jika ruang tunggu service berukuran luas atau dengan tingkat kebisingan sedang. Aplikasi ini menampilkan daftar antrian aktif yang dapat dilihat langsung oleh Customer dan menghasilkan suara panggilan ketika Service Advisor melakukan aksi ![Docusaurus Plushie](/img/general-repair/reception/next.png). 
 
 Berikut adalah tampilan Dashboard Antrian:
 
-![Docusaurus Plushie](/img/reception/1.png)
+![Docusaurus Plushie](/img/general-repair/reception/1.png)
 
 Aplikasi web DMS Service yang digunakan Service Advisor untuk memanggil antrian yang sudah teregistrasi dalam sistem, berikut adalah tampilan aplikasi web DMS Service untuk Service Advisor :
 
-![Docusaurus Plushie](/img/reception/2.png)
+![Docusaurus Plushie](/img/general-repair/reception/2.png)
 
 Berikut adalah penjelasan kolom – kolom pada list reception queue :
 
@@ -46,17 +46,17 @@ Berikut adalah fungsi button action yang ada pada bagian atas tampilan :
 
 | Nama Action | Deskripsi |
 |--------|--------|
-| ![Docusaurus Plushie](/img/reception/next.png) | Panggil antrian berikutnya. Sistem akan mencari Customer dalam antrian berdasarkan jam kedatangan. | 
-| ![Docusaurus Plushie](/img/reception/booking.png) | Panggil antrian berikutnya khusus untuk Customer yang melakukan Booking | 
-| ![Docusaurus Plushie](/img/reception/priority.png) | Panggil antrian berikutnya khusus untuk Customer prioritas atau tamu penting. | 
-| ![Docusaurus Plushie](/img/reception/selected.png) | Menu ini digunakan untuk memanggil kembali data antrian yang sudah di skip sebelumnya dan hanya akan aktif jika user memilih data dengan status Skip. | 
-| ![Docusaurus Plushie](/img/reception/recall.png) | Memanggil ulang antrian yang telah di panggil melalui tombol Call Next, Call Booking atau pun Call Priority. | 
-| ![Docusaurus Plushie](/img/reception/skip.png) | Skip antrian aktif, digunakan jika customer tidak ada ditempat saat dipanggil. | 
-| ![Docusaurus Plushie](/img/reception/finish.png) | Klik action ini jika Customer yang dipanggil datang ke meja SA | 
+| ![Docusaurus Plushie](/img/general-repair/reception/next.png) | Panggil antrian berikutnya. Sistem akan mencari Customer dalam antrian berdasarkan jam kedatangan. | 
+| ![Docusaurus Plushie](/img/general-repair/reception/booking.png) | Panggil antrian berikutnya khusus untuk Customer yang melakukan Booking | 
+| ![Docusaurus Plushie](/img/general-repair/reception/priority.png) | Panggil antrian berikutnya khusus untuk Customer prioritas atau tamu penting. | 
+| ![Docusaurus Plushie](/img/general-repair/reception/selected.png) | Menu ini digunakan untuk memanggil kembali data antrian yang sudah di skip sebelumnya dan hanya akan aktif jika user memilih data dengan status Skip. | 
+| ![Docusaurus Plushie](/img/general-repair/reception/recall.png) | Memanggil ulang antrian yang telah di panggil melalui tombol Call Next, Call Booking atau pun Call Priority. | 
+| ![Docusaurus Plushie](/img/general-repair/reception/skip.png) | Skip antrian aktif, digunakan jika customer tidak ada ditempat saat dipanggil. | 
+| ![Docusaurus Plushie](/img/general-repair/reception/finish.png) | Klik action ini jika Customer yang dipanggil datang ke meja SA | 
 
-![Docusaurus Plushie](/img/reception/3.png)
+![Docusaurus Plushie](/img/general-repair/reception/3.png)
 
-Pada gambar di atas terdapat 3 cara untuk mencari identitas unit kendaraan, yaitu berdasarkan nomor plat, nomor rangka, dan nomor mesin, lalu klik enter atau klik button ![Docusaurus Plushie](/img/reception/go.png).
+Pada gambar di atas terdapat 3 cara untuk mencari identitas unit kendaraan, yaitu berdasarkan nomor plat, nomor rangka, dan nomor mesin, lalu klik enter atau klik button ![Docusaurus Plushie](/img/general-repair/reception/go.png).
 
 Untuk tahap di reception ada tiga (3) proses untuk memulai, yaitu:
 
@@ -68,7 +68,7 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 ### **Melalui Menu Reception Vehicle Unit (Kustomer terdaftar)**
 Caranya ialah dengan memasukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
-![Docusaurus Plushie](/img/reception/4.png)
+![Docusaurus Plushie](/img/general-repair/reception/4.png)
 
 Setelah identitas customer muncul klik tombol “choose” untuk melanjutkan ke proses pembuatan **[Create Work Order](http://localhost:3000/docs/general-repair/create-wo/)**.
 
@@ -76,34 +76,34 @@ Setelah identitas customer muncul klik tombol “choose” untuk melanjutkan ke 
 ### **Melalui Menu Reception Vehicle Unit (Kustomer belum terdaftar)**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
-![Docusaurus Plushie](/img/reception/5.png)
+![Docusaurus Plushie](/img/general-repair/reception/5.png)
 
 Setelah hasil pencarian muncul klik tombol “NEW DATA” klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
-![Docusaurus Plushie](/img/reception/6.png)
+![Docusaurus Plushie](/img/general-repair/reception/6.png)
 
 Pada gambar di atas Service Advisor akan di arahkan untuk mengisi data unit kendaraan, setelah semua nya terisi dilanjutkan mengisi data customer seperti di bawah ini.
 
-![Docusaurus Plushie](/img/reception/7.png)
+![Docusaurus Plushie](/img/general-repair/reception/7.png)
 
 :::tip Note
 
-Pada bagian Field **Customer Name**, nama nama kustomer sebelumnya sudah terinput di database, jika Service Advisor mau menambahkan data customer yang belum ada, silahkan klik menu **General** -> lalu pilih dan klik **Customer** -> klik tombol ![Docusaurus Plushie](/img/create-booking/newrecord.png) akan muncul tampilan form dan buat data kustomer baru 
+Pada bagian Field **Customer Name**, nama nama kustomer sebelumnya sudah terinput di database, jika Service Advisor mau menambahkan data customer yang belum ada, silahkan klik menu **General** -> lalu pilih dan klik **Customer** -> klik tombol ![Docusaurus Plushie](/img/general-repair/create-booking/newrecord.png) akan muncul tampilan form dan buat data kustomer baru 
 
 :::
 
-Setelah Vehicle Details dan Customer Details terisi lengkap, klik tombol ![Docusaurus Plushie](/img/reception/saveform.png) lalu akan muncul tampilan seperti dibawah ini.
+Setelah Vehicle Details dan Customer Details terisi lengkap, klik tombol ![Docusaurus Plushie](/img/general-repair/reception/saveform.png) lalu akan muncul tampilan seperti dibawah ini.
 
-![Docusaurus Plushie](/img/reception/8.png)
+![Docusaurus Plushie](/img/general-repair/reception/8.png)
 
 Pada halaman ini klik tab **Contact Person** maka Service Advisor di wajibkan untuk mengisi data singkat customer yang membawa kendaraan, lihat gambar di bawah ini.
 
-![Docusaurus Plushie](/img/reception/9.png)
+![Docusaurus Plushie](/img/general-repair/reception/9.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/reception/newcontact.png).
+1. Klik tombol ![Docusaurus Plushie](/img/general-repair/reception/newcontact.png).
 2. Lengkapi inputan yang mandatori*
-3. Klik tombol ![Docusaurus Plushie](/img/reception/save.png)
-4. Klik tombol ![Docusaurus Plushie](/img/reception/workorder.png)
+3. Klik tombol ![Docusaurus Plushie](/img/general-repair/reception/save.png)
+4. Klik tombol ![Docusaurus Plushie](/img/general-repair/reception/workorder.png)
 
-Setelah data **Contact Person** terisi, pada bagian kanan atas tampilan klik tombol ![Docusaurus Plushie](/img/reception/workorder.png) maka Service Advisor dilanjutkan untuk membuat Work Order
+Setelah data **Contact Person** terisi, pada bagian kanan atas tampilan klik tombol ![Docusaurus Plushie](/img/general-repair/reception/workorder.png) maka Service Advisor dilanjutkan untuk membuat Work Order
