@@ -8,11 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DEALER MANAGEMENT SYSTEM',
   tagline: 'Services',
-  url: 'https://github.com',
+  url: 'https://dms-service.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-KALLA.ico',
   organizationName: 'CICT KALLA GROUP', // Usually your GitHub org/user name.
   projectName: 'dmsservices', // Usually your repo name.
 
