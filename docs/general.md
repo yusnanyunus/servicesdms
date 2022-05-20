@@ -27,7 +27,7 @@ Untuk memulai input data Discount baru silahkan klik ![Docusaurus Plushie](/img/
 
 ### Program
 
-Menu ini digunakan untuk membuat data program dari pihak ke 3 (tiga) yang nantinya kustomer akan mendapat potongan harga sesuai yang diberikan oleh pihak ke 3 (tiga). 
+Menu ini digunakan untuk membuat data program dari penyedia program yang nantinya kustomer akan mendapat potongan harga sesuai yang diberikan oleh pihak penyedia program. 
 
 ![Docusaurus Plushie](/img/general/program1.png)
 

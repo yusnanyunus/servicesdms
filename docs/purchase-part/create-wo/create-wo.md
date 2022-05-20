@@ -29,7 +29,7 @@ tags: [work order, service advisor, SA, estimation, purchase part, part order]
 | Part No | Nomor part yang akan digunakan |
 | Part Name | Nama part yang akan digunakan |
 | Quantity | Jumlah part yang digunakan |
-| Part Status | **None** : Status awal Part, **Prepared** : Tidak terpakai, **Picked** : Part sudah diserahkan Part Man kepada Teknisi, **Unavailable** : Part tidak tersedia, **On** : rder	 Tidak terpakai, **Reserved** : Part telah dipesan oleh SA kepada Part Man, **Cancelled** : Pemesanan Part dibatalkan |
+| Part Status | **None** : Status awal Part, **Reserved** : Part telah dipesan oleh SA kepada Part Man, **Picked** : Part sudah diserahkan Part Man kepada Teknisi, **Unavailable** : Part tidak tersedia, **Cancelled** : Pemesanan Part dibatalkan |
 | Stock | Menampilkan jumlah stok part yang ada di gudang utama |
 | Discount | Diskon yang diberikan kepada kustomer |
 | Program | Program untuk part |

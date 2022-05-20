@@ -27,7 +27,7 @@ tags: [work order, service advisor, SA, estimation, diagnose, purchase part, cus
 | SPK Reference | Masukkan **nomor SPK** Pembelian jika diperlukan (tidak Wajib) |
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
-Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab Job Order, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab Customer Request. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab Work Order Parts. Berikut penjelasan untuk kolom-kolom pada masing-masing tab :
+Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order**. Berikut penjelasan untuk kolom-kolom pada masing-masing tab :
 
 
 ---
@@ -87,7 +87,7 @@ Keterangan :
 | Part No | Nomor part yang akan digunakan |
 | Part Name | Nama part yang akan digunakan |
 | Quantity | Jumlah part yang digunakan |
-| Part Status | **None** : Status awal Part, **Prepared** : Tidak terpakai, **Picked** : Part sudah diserahkan Part Man kepada Teknisi, **Unavailable** : Part tidak tersedia, **On** : rder	 Tidak terpakai, **Reserved** : Part telah dipesan oleh SA kepada Part Man, **Cancelled** : Pemesanan Part dibatalkan |
+| Part Status | **None** : Status awal Part, **Reserved** : Part telah dipesan oleh SA kepada Part Man, **Picked** : Part sudah diserahkan Part Man kepada Teknisi, **Unavailable** : Part tidak tersedia, **Cancelled** : Pemesanan Part dibatalkan |
 | Qty Supplied | Jumlah part yang di supply oleh Partman |
 | Stock | Menampilkan jumlah stok part yang ada di gudang utama |
 | Discount | Diskon yang diberikan kepada kustomer |
