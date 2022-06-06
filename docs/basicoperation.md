@@ -1,7 +1,11 @@
 ---
+
 sidebar_position: 2
 id: basicoperation
 title: BASIC OPERATION
+sidebar_label: BASIC OPERATION
+toc_max_heading_level: 4
+hide_title: true
 ---
 
 Bagian ini menjelaskan tentang cara pengoperasian dasar Dealer Management System Services.
