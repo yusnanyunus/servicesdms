@@ -8,16 +8,21 @@ hide_title: true
 tags: [partman, part, part supply, return part, picking part, part transaction history, part transfer, part stock, part purchase order, request part supply, service part supply, process part supply]
 ---
 
+
+Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi HakaERP yang dapat diakses oleh Part Man. Modul ini berfungsi sebagai wadah bagi Part Man untuk melakukan pengolahan data part, baik part yang keluar dari warehouse maupun part yang masuk ke warehouse. Terdapat macam-macam aktivitas yang akan dijelaskan pada bahasan selanjutnya.
+
+
 ### Part Purchase Order
-> Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor selain depo pada bahasan ini akan di jelaskan secara terperincis.
+> Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor selain depo pada bahasan ini akan di jelaskan secara terperinci.
 
 ### Part Transfer
+> Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang
 
 ### Part Stock
+> Menu Part Stock berisikan informasi stok card part dalam bentuk List View seperti pada gambar dibawah ini
 
 ### Part Transaction History
-
-### Request Part Supply
+> Part Transaction History berfungsi untuk menampilkan riwayat transaksi part pada Cabang Part Man aktif, dalam bentuk List View seperti pada gambar dibawah ini. 
 
 ### Service Part Supply
 
