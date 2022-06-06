@@ -8,8 +8,7 @@ hide_title: true
 tags: [partman, part, part supply, return part, picking part, part transaction history, part transfer, part stock, part purchase order, request part supply, service part supply, process part supply]
 ---
 
-
-Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi HakaERP yang dapat diakses oleh Part Man. Modul ini berfungsi sebagai wadah bagi Part Man untuk melakukan pengolahan data part, baik part yang keluar dari warehouse maupun part yang masuk ke warehouse. Terdapat macam-macam aktivitas yang akan dijelaskan pada bahasan selanjutnya.
+Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi DMS Service yang dapat diakses oleh bagian part bengkel. Modul ini berfungsi sebagai wadah bagi Partman atau Partlady untuk mengelolah data part, baik part yang keluar dari warehouse maupun part yang masuk ke warehouse. Terdapat macam-macam aktivitas yang akan dijelaskan pada bagian ini.
 
 
 ### Part Purchase Order
