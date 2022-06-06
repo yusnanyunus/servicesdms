@@ -9,7 +9,7 @@ tags: [partman, part, part supply, return part, picking part, part transaction h
 ---
 
 ### Part Purchase Order
-> Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor selain depo pada bahasan ini akan di jelaskan secara terperinci.
+> Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor selain depo pada bahasan ini akan di jelaskan secara terperincis.
 
 ### Part Transfer
 
