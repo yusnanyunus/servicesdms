@@ -5,7 +5,7 @@ title: Service Part Supply
 tags: [partman,part,part supply,return part,picking part]
 ---
 
-### Part Purchase Order
+#### Part Purchase Order
 > Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor selain depo pada bahasan ini akan di jelaskan secara terperinci.
 
 ### Part Transfer
