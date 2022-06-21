@@ -24,28 +24,31 @@ pilih nama supplier nya dan pada inputan **B/O type** pilih angka nya lalu klik 
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/3.png)
 
-pada bagian kiri bawah klik button **Add New**, lalu akan muncul form seperti dibawah ini.
+pada bagian kiri bawah klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/addnew.png), lalu akan muncul form seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/4.png)
 
-sebagai contoh, untuk gambar diatas penulis melakukan order part dengan nama **GROMMET, SCREW** dengan quantity yang di order 2 (dua) , lalu klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
+sebagai contoh, untuk gambar diatas penulis melakukan order part dengan nama **GROMMET, SCREW** dengan quantity yang di order 2 (dua), caranya pada inputan **Part No** pilih nomor partnya secara otomatis **Part Name** terisi setelah itu input quantity lalu klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/5.png)
 
-maka list part yang akan di order akan muncul pada bagian bawah, selanjut nya klik button **Generate Order Detail** setelah itu pada bagian kanan bawah klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
+maka list part yang akan di order akan muncul pada bagian bawah, selanjut nya klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/generateorderdetail.png) setelah itu pada bagian kanan bawah klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
 
 lalu dilanjutkan klik button **Generate PO** dan klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png) seperti gambar dibawah ini
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/6.png)
 
-pada gambar di bawah klik button **Export PO TXT** untuk mendownload list PO dalam bentuk format TXT.
+pada gambar di bawah klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/exportpo.png) untuk mendownload list PO dalam bentuk format TXT.
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/7.png)
 
-pada tampilan sidebar aplikasi sebelah kanan, klik menu **Part Receive** 
+### Part Receive
+
+> menu ini digunakan pada saat part yang telah di order dari depo telah diterima untuk melakukan konfirmasi penerimaan part, pada tampilan sidebar aplikasi sebelah kanan, klik menu **Part Receive** 
+
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/8.png)
 
-maka akan muncul tampilan seperti dibawah ini, klik button **New receiving (TXT)** pada bagian kanan list tampilan
+maka akan muncul tampilan seperti dibawah ini, klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/newreceiving.png) pada bagian kanan list tampilan
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/9.png)
 
@@ -73,7 +76,7 @@ setelah kedua file di upload, silahkan klik button **Save** dan di lanjutkan kli
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/15.png)
 
-setelah di generate maka muncul tampilan seperti dibawah ini, perhatikan pada inputan pada **Confirm Receive** masukkan jumlah part yang di terima dari supplier, sebagai contoh pada quantity order 2 (dua)maka harus nya confirm receive nya pus di isi 2 (dua), setelah itu klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
+setelah di generate maka muncul tampilan seperti dibawah ini, perhatikan pada inputan pada **Confirm Receive** masukkan jumlah part yang di terima dari supplier, sebagai contoh pada quantity order 2 (dua)maka harus nya confirm receive nya di isi 2 (dua), setelah itu klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/16.png)
 
@@ -92,7 +95,7 @@ maka part yang di order telah di terima dan terecord oleh sistem, seperti gambar
 
 ### Service Part Supply
 
-> Untuk Service Part Supply menangani semua hal yang berkaitan dengan proses supply part dari Part Man ke Teknisi, termasuk Part Booking dan Part Return dari Teknisi ke Part Man yang dapat di akses melalui partman->supply part, maka akan muncul tampilan seperti dibawah ini.
+> Untuk Service Part Supply menangani semua hal yang berkaitan dengan proses supply part dari Part Man ke Teknisi, termasuk Part Booking dan Part Return dari Teknisi ke Part Man yang dapat di akses melalui **partman->supply part**, maka akan muncul tampilan seperti dibawah ini.
 
 
 Lalu partman akan melakukan pencarian part yang akan disupply berdasarkan nomor plat atau nomor Work Order, sebagai contoh pencarian berdasarkan nomor plat kendaraan kemudian klik ENTER atau tekan tombol ![Docusaurus Plushie](/img/partman-og/service-part-supply/search.png). Akan muncul data Work Order lalu klik tombol ![Docusaurus Plushie](/img/partman-og/service-part-supply/supplypart.png).
