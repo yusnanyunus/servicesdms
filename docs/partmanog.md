@@ -85,7 +85,51 @@ maka part yang di order telah di terima dan terecord oleh sistem, seperti gambar
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/17.png)
 
 ### Part Transfer
-> Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang
+> Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang, pada tampilan sidebar sebelah kanan, klik menu **Part Transfer Order List**
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/1x.png)
+
+setelah tampilan list view muncul, pada bagian sebelah kanan tampilan tabel klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/newrequest.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/1.png)
+
+maka akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/2.png)
+
+perhatikan gambar dibawah ini bagian inputan **My Branch** 
+dan **Request to Branch**,setelah di tentukan di cabang dikirim part nya, klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/saveform.png)
+![Docusaurus Plushie](/img/partman-og/part-transfer/3.png)
+
+pada bagian klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/addnew.png), lalu akan muncul gambar seperti di bawah ini.
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/4.png)
+
+sebagai contoh, untuk gambar diatas penulis melakukan order part dengan nama **PIECE, RR BUMPER** dengan quantity yang di transfer 1 (satu), caranya pada inputan **Part No** pilih nomor partnya secara otomatis **Part Name** terisi setelah itu input quantity lalu klik button ![Docusaurus Plushie](/img/partman-og/part-purchase-order/save.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/5.png)
+
+maka pada bagian bawah tampilan di list view, akan muncul nama part yang akan di kirim, setelah itu klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/generateparttransfer.png), lihat gambar di bawah ini.
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/6.png)
+
+setelah itu klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/transferdoc.png) pada bagian kanan bawah tampilan.
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/7.png)
+
+lalu akan muncul halaman untuk cetak **Part Transfer Delivery Note**, sebagai bukti bahwa cabang pengirim telah melakukan transfer ke cabang yang dituju.
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/8.png)
+
+### Part Transfer Approve
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/9.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/10.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/11.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transfer/12.png)
 
 ### Part Stock
 > Menu Part Stock berisikan informasi stok card part dalam bentuk List View seperti pada gambar dibawah ini
