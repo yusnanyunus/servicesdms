@@ -48,10 +48,16 @@ const sidebars = {
     },
 
     {
+      type: "doc",
+      id: "mraog",
+      label: "MRA OPERATIONAL GUIDE",
+    },
+
+    {
       type: "category",
       label: "GENERAL REPAIR",
       items : [
-        "general-repair/create-booking/create-booking",
+        //"general-repair/create-booking/create-booking",
         "general-repair/security-gate/security-gate",
         "general-repair/reception/reception",
         "general-repair/create-wo/create-wo",

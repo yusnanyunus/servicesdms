@@ -84,7 +84,7 @@ maka part yang di order telah di terima dan terecord oleh sistem, seperti gambar
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/17.png)
 
-### Part Transfer
+### Part Transfer Request
 > Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang, pada tampilan sidebar sebelah kanan, klik menu **Part Transfer Order List**
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/1x.png)
@@ -122,12 +122,23 @@ lalu akan muncul halaman untuk cetak **Part Transfer Delivery Note**, sebagai bu
 ![Docusaurus Plushie](/img/partman-og/part-transfer/8.png)
 
 ### Part Transfer Approve
+> Setelah cabang pengirim telah melakukan proses transfer part, maka giliran cabang yang menerima part tersebut untuk menerima part yang telah di transfer, pada bagian kanan tampilan sidebar klik button **Part Supply Transfer List**, maka akan muncul tampilan seperti di bawah ini.
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/9.png)
 
+pada bagian kiri tampilan list view tabel, klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/tigatitik.png) lalu klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/edit.png), dan akan muncul tampilan seperti dibawah ini.
+
+perhatikan gambar di bawah ini, jika button ![Docusaurus Plushie](/img/partman-og/part-transfer/reject.png) yang klik maka part tersebut otomatis akan kembali ke cabang pengirim, sedangkan jika button ![Docusaurus Plushie](/img/partman-og/part-transfer/approve.png) di klik maka proses penerimaan part dari cabang akan di proses.
+
 ![Docusaurus Plushie](/img/partman-og/part-transfer/10.png)
 
+setelah button ![Docusaurus Plushie](/img/partman-og/part-transfer/approve.png) di klik maka akan muncul tampilan seperti dibawah ini.
+
+klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/supplypart.png) maka proses transfer part telah selesai dan part yang di terima telah terecord secara sistem
+
 ![Docusaurus Plushie](/img/partman-og/part-transfer/11.png)
+
+silahkan cek di menu **Part transfer list** status transfer berubah menjadi **Approved**, artinya part telah di terima oleh cabang yang dituju.
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/12.png)
 
