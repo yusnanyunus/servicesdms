@@ -10,7 +10,7 @@ tags: [partman, part, part supply, return part, picking part, part transaction h
 
 Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi DMS Service yang dapat diakses oleh bagian part bengkel. Modul ini berfungsi sebagai wadah bagi Partman atau Partlady untuk mengelolah data part, baik part yang keluar dari warehouse maupun part yang masuk ke warehouse. Terdapat macam-macam aktivitas yang akan dijelaskan pada bagian ini.
 
-
+---
 ### Part Purchase Order
 > Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor pada bahasan ini akan di jelaskan secara terperinci.
 
@@ -42,6 +42,7 @@ pada gambar di bawah klik button ![Docusaurus Plushie](/img/partman-og/part-purc
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/7.png)
 
+---
 ### Part Receive
 
 > menu ini digunakan pada saat part yang telah di order dari depo telah diterima untuk melakukan konfirmasi penerimaan part, pada tampilan sidebar aplikasi sebelah kanan, klik menu **Part Receive** 
@@ -84,6 +85,7 @@ maka part yang di order telah di terima dan terecord oleh sistem, seperti gambar
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/17.png)
 
+---
 ### Part Transfer Request
 > Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang, pada tampilan sidebar sebelah kanan, klik menu **Part Transfer Order List**
 
@@ -121,6 +123,7 @@ lalu akan muncul halaman untuk cetak **Part Transfer Delivery Note**, sebagai bu
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/8.png)
 
+---
 ### Part Transfer Approve
 > Setelah cabang pengirim telah melakukan proses transfer part, maka giliran cabang yang menerima part tersebut untuk menerima part yang telah di transfer, pada bagian kanan tampilan sidebar klik button **Part Supply Transfer List**, maka akan muncul tampilan seperti di bawah ini.
 
@@ -142,12 +145,17 @@ silahkan cek di menu **Part transfer list** status transfer berubah menjadi **Ap
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/12.png)
 
+---
 ### Part Stock
+
 > Menu Part Stock berisikan informasi stok card part dalam bentuk List View seperti pada gambar dibawah ini
 
+---
 ### Part Transaction History
+
 > Part Transaction History berfungsi untuk menampilkan riwayat transaksi part pada Cabang Part Man aktif, dalam bentuk List View seperti pada gambar dibawah ini. 
 
+---
 ### Service Part Supply
 
 > Untuk Service Part Supply menangani semua hal yang berkaitan dengan proses supply part dari Part Man ke Teknisi, termasuk Part Booking dan Part Return dari Teknisi ke Part Man yang dapat di akses melalui **partman->supply part**, maka akan muncul tampilan seperti dibawah ini.

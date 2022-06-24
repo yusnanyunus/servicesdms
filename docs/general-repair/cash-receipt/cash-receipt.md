@@ -15,6 +15,12 @@ pada tampilan diatas klik button ![Docusaurus Plushie](/img/general-repair/cash-
 
 ![Docusaurus Plushie](/img/general-repair/cash-receipt/2.png)
 
+:::tip Note
+
+sebelum melanjutkan ke proses settlement check pastikan invoice telah terbayar di oracle, agar invoice muncul di menu **Payment Paid**
+
+:::
+
 setelah itu di lanjutkan di proses **Settlement Check**, pada menu Cashier - Payment Paid, maka akan muncul tampilan seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/cash-receipt/3.png)
