@@ -10,4 +10,6 @@ hide_title: true
 
 ### Dealer Management System (DMS) Services
 
-Sebuah sistem yang mengelola data unit perbaikan mobil Toyota yang ada di lingkup PT. Hadji Kalla.
+Merupakan sistem yang digunakan untuk mengelola unit perbaikan/service kendaraan mobil Toyota yang ada di lingkup PT. Hadji Kalla.
+
+![Docusaurus Plushie](img_basicoperation/login.png)

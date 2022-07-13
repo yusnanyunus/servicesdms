@@ -12,7 +12,7 @@ Bagian ini menjelaskan tentang cara pengoperasian dasar Dealer Management System
 
 ### Membuka Aplikasi
 
-Aplikasi ini dapat di akses dengan menggunakan browser, dengan mengetik **[dmsservice.hkalla.co.id](https://dmsservice.hkalla.co.id)**
+Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan Google Chrome terbaru), selanjutnya ketik **[dmsservice.hkalla.co.id](https://dmsservice.hkalla.co.id)** di isian address browser.
 
 ![Docusaurus Plushie](img_basicoperation/url.png)
 
