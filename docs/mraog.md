@@ -104,3 +104,7 @@ Keterangan :
 1. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/addjoborder.png).
 2. Lengkapi inputan yang mandatori*
 3. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/save.png)
+
+---
+
+### Reminder

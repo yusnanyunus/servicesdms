@@ -54,6 +54,12 @@ const sidebars = {
     },
 
     {
+      type: "doc",
+      id: "saog",
+      label: "SERVICE ADVISOR OPERATIONAL GUIDE"
+    },
+
+    {
       type: "category",
       label: "GENERAL REPAIR",
       items : [

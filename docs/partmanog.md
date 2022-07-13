@@ -156,6 +156,11 @@ silahkan cek di menu **Part transfer list** status transfer berubah menjadi **Ap
 > Part Transaction History berfungsi untuk menampilkan riwayat transaksi part pada Cabang Part Man aktif, dalam bentuk List View seperti pada gambar dibawah ini. 
 
 ---
+### Move Warehouse
+
+> 
+
+---
 ### Service Part Supply
 
 > Untuk Service Part Supply menangani semua hal yang berkaitan dengan proses supply part dari Part Man ke Teknisi, termasuk Part Booking dan Part Return dari Teknisi ke Part Man yang dapat di akses melalui **partman->supply part**, maka akan muncul tampilan seperti dibawah ini.
