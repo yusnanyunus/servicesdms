@@ -16,7 +16,7 @@ proses ini membutuhkan approval **Kepala bengkel**
 
 :::
 
-> Tahapan ini akan di jelaskan langkah - langkah cara melakukan cancel pada Work Order, pilih menu reception - klik work order list
+> Tahapan ini akan di jelaskan langkah - langkah cara melakukan cancel pada Work Order, pilih menu **reception - klik work order list**
 
 ![Docusaurus Plushie](/img/sa-og/cancel-wo/1.png)
 

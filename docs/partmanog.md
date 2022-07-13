@@ -87,6 +87,13 @@ maka part yang di order telah di terima dan terecord oleh sistem, seperti gambar
 
 ---
 ### Part Transfer Request
+
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**, **Kepala Administrasi**
+
+:::
+
 > Part Transfer merupakan menu yang digunakan untuk transfer part antar cabang, pada tampilan sidebar sebelah kanan, klik menu **Part Transfer Order List**
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/1x.png)
@@ -123,8 +130,6 @@ lalu akan muncul halaman untuk cetak **Part Transfer Delivery Note**, sebagai bu
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/8.png)
 
----
-### Part Transfer Approve
 > Setelah cabang pengirim telah melakukan proses transfer part, maka giliran cabang yang menerima part tersebut untuk menerima part yang telah di transfer, pada bagian kanan tampilan sidebar klik button **Part Supply Transfer List**, maka akan muncul tampilan seperti di bawah ini.
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/9.png)
@@ -148,12 +153,42 @@ silahkan cek di menu **Part transfer list** status transfer berubah menjadi **Ap
 ---
 ### Part Stock
 
-> Menu Part Stock berisikan informasi stok card part dalam bentuk List View seperti pada gambar dibawah ini
+> Menu Part Stock berisikan informasi stok card part dalam bentuk List View seperti pada gambar dibawah ini untuk mengetahui apakah stok tersebut ready di gudang part dan juga berapa quantity yang tersedia, caranya pilih menu **Partman - pilih stock card**
+
+![Docusaurus Plushie](/img/partman-og/part-stock/1.png)
+
+maka akan muncul tampilan seperti di bawah ini.
+
+![Docusaurus Plushie](/img/partman-og/part-stock/2.png)
+
+pada bagian atas list view, di kolom search masukkan no part yang akan di cek histori nya, sebagai contoh penulis memasukkan nomor part **RETAINER CUSHION** , lalu klik button ![Docusaurus Plushie](/img/partman-og/part-stock/search.png)
+
+![Docusaurus Plushie](/img/partman-og/part-stock/3.png)
+
+maka akan terlihat di tampilan seperti di bawah ini
+
+![Docusaurus Plushie](/img/partman-og/part-stock/4.png)
+
 
 ---
 ### Part Transaction History
 
-> Part Transaction History berfungsi untuk menampilkan riwayat transaksi part pada Cabang Part Man aktif, dalam bentuk List View seperti pada gambar dibawah ini. 
+> Part Transaction History berfungsi untuk menampilkan riwayat transaksi part pada Cabang Part Man aktif, dalam bentuk List View seperti pada gambar dibawah ini, caranya pilih menu **Partman - pilih stock card log**
+
+![Docusaurus Plushie](/img/partman-og/part-transaction-history/1.png)
+
+maka akan muncul tampilan seperti di bawah ini.
+
+![Docusaurus Plushie](/img/partman-og/part-transaction-history/2.png)
+
+pada bagian atas list view, di kolom search masukkan no part yang akan di cek histori nya, sebagai contoh penulis memasukkan nomor part **RETAINER CUSHION** , lalu klik button ![Docusaurus Plushie](/img/partman-og/part-transaction-history/search.png)
+
+![Docusaurus Plushie](/img/partman-og/part-transaction-history/3.png)
+
+maka akan terlihat di tampilan seperti di bawah ini
+
+![Docusaurus Plushie](/img/partman-og/part-transaction-history/4.png)
+
 
 ---
 ### Move Warehouse
