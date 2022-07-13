@@ -18,7 +18,7 @@ Untuk tahap di menu **booking** ada dua (2) proses untuk memulai, yaitu:
 
 ---
  
-### **Melalui Menu Appointment Booking (Kustomer terdaftar)**
+### **Appointment Booking (Customer registered)**
 
 Caranya ialah dengan memasukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
@@ -32,7 +32,7 @@ lalu pada bagian kanan tampilan klik button ![Docusaurus Plushie](/img/mra-og/cr
 
 ---
 
-### **Melalui Menu Appointment Booking (Kustomer belum terdaftar)**
+### **Appointment Booking (Customer non listed)**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
 ![Docusaurus Plushie](/img/mra-og/create-booking/2.png)

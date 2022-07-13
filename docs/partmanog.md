@@ -12,6 +12,13 @@ Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi DMS Se
 
 ---
 ### Part Purchase Order
+
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**
+
+:::
+
 > Merupakan menu yang digunakan untuk pengajuan pembelian part ke vendor pada bahasan ini akan di jelaskan secara terperinci.
 
 ![Docusaurus Plushie](/img/partman-og/part-purchase-order/1.png)
@@ -193,7 +200,13 @@ maka akan terlihat di tampilan seperti di bawah ini
 ---
 ### Move Warehouse
 
-> 
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**
+
+:::
+
+> Menu ini digunakan jika ada user atau karyawan yang meminjam part dari gudang baik itu untuk kebutuhan event maupun untuk kebutuhan display, cara nya ialah pilih menu **Partman - Move Warehouse**
 
 ---
 ### Service Part Supply
@@ -236,6 +249,12 @@ Setelah itu lanjut ke proses di bawah ini.
 
 ---
 ### Return Part
+
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**
+
+:::
 
 > Jika ada pengembalian part yang sudah di-pick oleh Teknisi, Partman dapat meng-input pengembalian part tersebut ke Main Warehouse dengan cara tekan tombol ![Docusaurus Plushie](/img/partman-og/service-part-supply/duagaris.png), lalu klik ![Docusaurus Plushie](/img/partman-og/service-part-supply/return.png) dan klik ![Docusaurus Plushie](/img/partman-og/service-part-supply/yes-return.png),seperti pada gambar dibawah ini.
 
