@@ -75,7 +75,7 @@ const sidebars = {
         "general-repair/inspection/inspection",
         "general-repair/doc-checking/doc-checking",
         "general-repair/invoicing/invoicing",
-        "general-repair/gate-pass/gate-pass",
+        "general-repair/exit-permit/exit-permit",
         "general-repair/cash-receipt/cash-receipt",
       ]
     },
@@ -89,7 +89,7 @@ const sidebars = {
         //"purchase-part/service-part-supply/service-part-supply",,
         "purchase-part/doc-checking/doc-checking",
         "purchase-part/invoicing/invoicing",
-        "purchase-part/gate-pass/gate-pass",
+        //"purchase-part/gate-pass/gate-pass",
         "purchase-part/cash-receipt/cash-receipt",
       ]
     },
@@ -109,7 +109,7 @@ const sidebars = {
         "body-painting/inspection/inspection",
         "body-painting/doc-checking/doc-checking",
         "body-painting/invoicing/invoicing",
-        "body-painting/gate-pass/gate-pass",
+        //"body-painting/gate-pass/gate-pass",
         "body-painting/cash-receipt/cash-receipt",
       ]
     },

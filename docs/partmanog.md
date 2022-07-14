@@ -208,6 +208,8 @@ proses ini membutuhkan approval **Kepala Bengkel**
 
 > Menu ini digunakan jika ada user atau karyawan yang meminjam part dari gudang baik itu untuk kebutuhan event maupun untuk kebutuhan display, cara nya ialah pilih menu **Partman - Move Warehouse**
 
+![Docusaurus Plushie](/img/partman-og/move-warehouse/1.png)
+
 ---
 ### Service Part Supply
 
