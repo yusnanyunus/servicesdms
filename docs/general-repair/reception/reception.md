@@ -131,18 +131,6 @@ Untuk tahap di reception ada tiga (3) proses untuk memulai, yaitu:
 Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di input di bagian **Security Gate** dan **Service Advisor** tinggal memanggil antrian bisa di lihat pada bagian **[Reception](http://localhost:3000/docs/general-repair/reception/)**.
 
 --->
----
-### **Create Diagnostic**
-
->
-
----
-
-### **Create Estimate**
-
->
-
----
 
 ### **Create Work Order**
 
@@ -166,7 +154,20 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 | SPK Reference | Masukkan **nomor SPK** Pembelian jika diperlukan (tidak Wajib) |
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
-Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan. Berikut penjelasan untuk kolom-kolom pada masing-masing tab :
+Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan.
+
+---
+### **Create Diagnostic**
+
+>
+
+---
+
+### **Create Estimate**
+
+>
+
+---
 
 ### **Walk Arround Check (WAC)**
 

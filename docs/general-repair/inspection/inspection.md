@@ -5,7 +5,7 @@ title: Inspection
 tags: [foreman,ptm]
 ---
 
-### Inspection
+### **Inspection**
 
 > Menu inspection berfungsi untuk memfasilitasi Foreman atau PTM dalam melakukan inspeksi setelah unit kendaraan di handling oleh teknisi. Pada gambar dibawah ini adalah list Work Order dengan status Waiting for Inspection dan status Inspection yang dapat diakses melalui menu Controller -> Inspection.
 
@@ -34,7 +34,15 @@ Keterangan :
 
 :::
 
-Jika ada cacat pada unit kendaraan karena ada kesalahan pada saat Produksi, Foreman atau PTM dapat mengembalikan status Work Order ke Production untuk dilakukan pengerjaan job kembali/perbaikan pada unit kendaraan dengan cara klik ![Docusaurus Plushie](/img/general-repair/inspection/redo.png)
+### **Re Do Job**
+
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**
+
+:::
+
+> Jika ada cacat pada unit kendaraan karena ada kesalahan pada saat Produksi, Foreman atau PTM dapat mengembalikan status Work Order ke Production untuk dilakukan pengerjaan job kembali/perbaikan pada unit kendaraan dengan cara klik ![Docusaurus Plushie](/img/general-repair/inspection/redo.png)
 
 ![Docusaurus Plushie](/img/general-repair/inspection/5.png)
 

@@ -52,12 +52,12 @@ const sidebars = {
       id: "mraog",
       label: "MRA Operational Guide",
     },
-
-    {
-      type: "doc",
-      id: "saog",
-      label: "SERVICE ADVISOR Operational Guide"
-    },
+//
+//    //{
+//    //  type: "doc",
+//    //  id: "saog",
+//    //  label: "SERVICE ADVISOR Operational Guide"
+    //},
 
     {
       type: "category",
@@ -79,41 +79,41 @@ const sidebars = {
         "general-repair/cash-receipt/cash-receipt",
       ]
     },
-
-    {
-      type: "category",
-      label: "Purchase Part",
-      items : [
-        "purchase-part/create-wo/create-wo",
-        "purchase-part/print-wo/print-wo",
-        //"purchase-part/service-part-supply/service-part-supply",,
-        "purchase-part/doc-checking/doc-checking",
-        "purchase-part/invoicing/invoicing",
-        //"purchase-part/gate-pass/gate-pass",
-        "purchase-part/cash-receipt/cash-receipt",
-      ]
-    },
-
-    {
-      type: "category",
-      label: "Body Painting",
-      items : [
-        "body-painting/security-gate/security-gate",
-        "body-painting/reception/reception",
-        "body-painting/create-wo/create-wo",
-        "body-painting/wac/wac",
-        "body-painting/print-wo/print-wo",
-        "body-painting/job-distribution/job-distribution",
-        "body-painting/production/production",
-        //"body-painting/service-part-supply/service-part-supply",
-        "body-painting/inspection/inspection",
-        "body-painting/doc-checking/doc-checking",
-        "body-painting/invoicing/invoicing",
-        //"body-painting/gate-pass/gate-pass",
-        "body-painting/cash-receipt/cash-receipt",
-      ]
-    },
-
+//
+//    {
+//      type: "category",
+//      label: "Purchase Part",
+//      items : [
+//        "purchase-part/create-wo/create-wo",
+//        "purchase-part/print-wo/print-wo",
+//        //"purchase-part/service-part-supply/service-part-supply",,
+//        "purchase-part/doc-checking/doc-checking",
+//        "purchase-part/invoicing/invoicing",
+//        //"purchase-part/gate-pass/gate-pass",
+//        "purchase-part/cash-receipt/cash-receipt",
+//      ]
+//    },
+//
+//    {
+//      type: "category",
+//      label: "Body Painting",
+//      items : [
+//        "body-painting/security-gate/security-gate",
+//        "body-painting/reception/reception",
+//        "body-painting/create-wo/create-wo",
+//        "body-painting/wac/wac",
+//        "body-painting/print-wo/print-wo",
+//        "body-painting/job-distribution/job-distribution",
+//        "body-painting/production/production",
+//        //"body-painting/service-part-supply/service-part-supply",
+//        "body-painting/inspection/inspection",
+//        "body-painting/doc-checking/doc-checking",
+//        "body-painting/invoicing/invoicing",
+//        //"body-painting/gate-pass/gate-pass",
+//        "body-painting/cash-receipt/cash-receipt",
+//      ]
+//    },
+//
     //{
     //  type: "category",
     //  label: "PART OPERATIONAL GUIDE",
@@ -128,11 +128,11 @@ const sidebars = {
       label: "PART Operational Guide",
     },
 
-    {
-      type: "doc",
-      id: "billingog",
-      label: "BILLING Operational Guide"
-    },
+    //{
+    //  type: "doc",
+    //  id: "billingog",
+    //  label: "BILLING Operational Guide"
+    //},
 
   ],
 
