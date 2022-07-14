@@ -1,8 +1,8 @@
 ---
 sidebar_position: 7
 id: partmanog
-title: PART OPERATIONAL GUIDE
-sidebar_label: PART OPERATIONAL GUIDE
+title: PART Operational Guide
+sidebar_label: PART Operational Guide
 toc_max_heading_level: 4
 hide_title: true
 tags: [partman, part, part supply, return part, picking part, part transaction history, part transfer, part stock, part purchase order, request part supply, service part supply, process part supply]

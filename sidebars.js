@@ -32,36 +32,36 @@ const sidebars = {
     {
       type: "doc",
       id: "systemoverview",
-      label: "SYSTEM OVERVIEW",
+      label: "System Overview",
     },
 
     {
       type: "doc",
       id: "basicoperation",
-      label: "BASIC OPERATION",
+      label: "Basic Operation",
     },
 
     {
       type: "doc",
       id: "general",
-      label: "GENERAL",
+      label: "General",
     },
 
     {
       type: "doc",
       id: "mraog",
-      label: "MRA OPERATIONAL GUIDE",
+      label: "MRA Operational Guide",
     },
 
     {
       type: "doc",
       id: "saog",
-      label: "SERVICE ADVISOR OPERATIONAL GUIDE"
+      label: "SERVICE ADVISOR Operational Guide"
     },
 
     {
       type: "category",
-      label: "GENERAL REPAIR",
+      label: "General Repair",
       items : [
         //"general-repair/create-booking/create-booking",
         "general-repair/security-gate/security-gate",
@@ -82,7 +82,7 @@ const sidebars = {
 
     {
       type: "category",
-      label: "PURCHASE PART",
+      label: "Purchase Part",
       items : [
         "purchase-part/create-wo/create-wo",
         "purchase-part/print-wo/print-wo",
@@ -96,7 +96,7 @@ const sidebars = {
 
     {
       type: "category",
-      label: "BODY PAINTING",
+      label: "Body Painting",
       items : [
         "body-painting/security-gate/security-gate",
         "body-painting/reception/reception",
@@ -125,13 +125,13 @@ const sidebars = {
     {
       type: "doc",
       id: "partmanog",
-      label: "PART OPERATIONAL GUIDE",
+      label: "PART Operational Guide",
     },
 
     {
       type: "doc",
       id: "billingog",
-      label: "BILLING OPERATIONAL GUIDE"
+      label: "BILLING Operational Guide"
     },
 
   ],

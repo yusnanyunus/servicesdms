@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
 id: general
-title: GENERAL
-sidebar_label: GENERAL
+title: General
+sidebar_label: General
 toc_max_heading_level: 4
 hide_title: true
 tags: [customer, kustomer, discount, diskon, program, insurance, partner, job, new job, job baru, technician, teknisi, new technician]

@@ -2,8 +2,8 @@
 
 sidebar_position: 2
 id: basicoperation
-title: BASIC OPERATION
-sidebar_label: BASIC OPERATION
+title: Basic Operation
+sidebar_label: Basic Operation
 toc_max_heading_level: 4
 hide_title: true
 ---

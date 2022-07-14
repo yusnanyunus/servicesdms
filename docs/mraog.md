@@ -1,15 +1,15 @@
 ---
 sidebar_position: 8
 id: mraog
-title: MRA OPERATIONAL GUIDE
-sidebar_label: MRA OPERATIONAL GUIDE
+title: MRA Operational Guide
+sidebar_label: MRA Operational Guide
 toc_max_heading_level: 4
 hide_title: true
 tags: [booking, MRA, appointment, reminder, kustomer terdaftar, kustomer tidak terdaftar]
 ---
 
 
-### Create Booking
+### **Create Booking**
 
 > Pada tahapan ini akan dijelaskan langkah untuk membuat booking service pada Dealer Management System.
 Pilih menu Appointment – Booking – lalu masukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin.
@@ -107,4 +107,4 @@ Keterangan :
 
 ---
 
-### Reminder
+### **Reminder**
