@@ -7,7 +7,7 @@ tags: [foreman,ptm]
 
 ### **Inspection**
 
-> Menu inspection berfungsi untuk memfasilitasi Foreman atau PTM dalam melakukan inspeksi setelah unit kendaraan di handling oleh teknisi. Pada gambar dibawah ini adalah list Work Order dengan status Waiting for Inspection dan status Inspection yang dapat diakses melalui menu Controller -> Inspection.
+> Menu inspection berfungsi untuk memfasilitasi Foreman atau PTM dalam melakukan inspeksi setelah unit kendaraan di handling oleh teknisi. Pada gambar dibawah ini adalah list Work Order dengan status Waiting for Inspection dan status Inspection yang dapat diakses melalui menu **Controller -> Inspection**.
 
 ![Docusaurus Plushie](/img/general-repair/inspection/1.png)
 
@@ -23,7 +23,7 @@ Sebelum melanjutkan proses Inspection biasa nya PTM belum bisa melanjutkan ke pr
 
 ![Docusaurus Plushie](/img/general-repair/inspection/3.png)
 
-maka dari itu untuk melanjutkan proses update Washing dapat di akses melalui menu Washing -> Car Washing, maka akan muncul tampilan seperti dibawah ini.
+maka dari itu untuk melanjutkan proses update Washing dapat di akses melalui menu **Washing -> Car Washing**, maka akan muncul tampilan seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/inspection/4.png)
 
@@ -33,6 +33,8 @@ Keterangan :
 3. Setelah pencucian mobil selesai, klik ![Docusaurus Plushie](/img/general-repair/inspection/off.png) lalu klik ![Docusaurus Plushie](/img/general-repair/inspection/yes.png) maka pencucian selesai.
 
 :::
+
+---
 
 ### **Re Do Job**
 
@@ -47,3 +49,22 @@ proses ini membutuhkan approval **Kepala Bengkel**
 ![Docusaurus Plushie](/img/general-repair/inspection/5.png)
 
 maka Work Order akan kembali ke status Production lalu job akan Kembali ke On Proggress Jika proses Inspection pada unit kendaraan telah selesai,  klik ![Docusaurus Plushie](/img/general-repair/inspection/off.png) untuk melanjutkan Work Order ke proses Document Checking.
+
+---
+
+### **CR7**
+
+> Setelah teknisi melakukan pengisian form job suggest di status **Production**, maka giliran PTM untuk memeriksa hasil pengisian job suggest tersebut dengan cara pada tampilan form inspection pilih tab **CR7** lalu klik button ![Docusaurus Plushie](/img/general-repair/inspection/tigatitik.png) setelah itu klik button ![Docusaurus Plushie](/img/general-repair/inspection/edit.png), lihat gambar di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/inspection/6.png)
+
+maka akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/inspection/7.png)
+
+perhatikan kotak merah pada gambar diatas, pilih option **YES** jika job suggest tersebut berhasil teratasi dan pilih **NO** jika job suggest tersebut tidak bisa dikerjakan, lalu klik button ![Docusaurus Plushie](/img/general-repair/inspection/save.png)
+
+pada proses ini juga, PTM bisa menambahkan job suggest jika masih ada bagian - bagian unit kendaraan, dengan cara klik button 
+![Docusaurus Plushie](/img/general-repair/inspection/addsugest.png)
+
+![Docusaurus Plushie](/img/general-repair/inspection/8.png)
