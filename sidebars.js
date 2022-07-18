@@ -60,25 +60,79 @@ const sidebars = {
     //},
 
     {
-      type: "category",
-      label: "General Repair",
-      items : [
+      type: "doc",
+      id: "general-repair/security-gate/security-gate",
+      label: "Security Gate",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/reception/reception",
+      label: "Reception",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/job-distribution/job-distribution",
+      label: "Job Distribution",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/production/production",
+      label: "Production",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/inspection/inspection",
+      label: "Inspection",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/doc-checking/doc-checking",
+      label: "Document Checking",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/invoicing/invoicing",
+      label: "Invoice",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/exit-permit/exit-permit",
+      label: "Exit Permit",
+    },
+
+    {
+      type: "doc",
+      id: "general-repair/cash-receipt/cash-receipt",
+      label: "Payment",
+    },
+
+    //{
+    //  type: "category",
+    //  label: "General Repair",
+    //  items : [
         //"general-repair/create-booking/create-booking",
-        "general-repair/security-gate/security-gate",
-        "general-repair/reception/reception",
+        //"general-repair/security-gate/security-gate",
+        //"general-repair/reception/reception",
         //"general-repair/create-wo/create-wo",
         //"general-repair/wac/wac",
         //"general-repair/print-wo/print-wo",
-        "general-repair/job-distribution/job-distribution",
-        "general-repair/production/production",
+        //"general-repair/job-distribution/job-distribution",
+        //"general-repair/production/production",
         //"general-repair/service-part-supply/service-part-supply",
-        "general-repair/inspection/inspection",
-        "general-repair/doc-checking/doc-checking",
-        "general-repair/invoicing/invoicing",
-        "general-repair/exit-permit/exit-permit",
-        "general-repair/cash-receipt/cash-receipt",
-      ]
-    },
+        //"general-repair/inspection/inspection",
+        //"general-repair/doc-checking/doc-checking",
+        //"general-repair/invoicing/invoicing",
+        //"general-repair/exit-permit/exit-permit",
+        //"general-repair/cash-receipt/cash-receipt",
+  //    ]
+  //  },
 //
 //    {
 //      type: "category",
