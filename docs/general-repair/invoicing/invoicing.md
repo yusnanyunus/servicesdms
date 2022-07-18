@@ -5,7 +5,7 @@ title: Invoicing
 tags : [Invoicing, service invoice, program invoice, insurance invoice, billing, admin service, credit note, CN]
 ---
 
-### Invoicing
+### **Invoicing**
 
 > Setelah pengecekan data dokumen pada Work Order telah selesai dilakukan oleh Service Advisor, Work Order tersebut dapat diproses untuk dilanjutkan ke proses Invoicing oleh petugas Billing. 
 
@@ -20,7 +20,7 @@ Berikut ini adalah Invoice yang dapat di-generate oleh petugas Billing, yaitu:
 
 ---
 
-### Calculation Invoice
+### **Calculation Invoice**
 
 > Sebelum melakukan proses **Generate Invoice** maka terlebih dahulu, billing harus melakukan perhitungan ulang secara sistem sebelum di terbitkan invoice, dengan cara klik menu **Billing - Invoicing**
 
@@ -41,7 +41,7 @@ maka akan muncul alert **Calculation Success** yang menandakan proses kalkulasi 
 
 ---
 
-### Generate Service Invoice
+### **Generate Service Invoice**
 
 Untuk memulai proses Invoicing, klik ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
 
@@ -59,7 +59,7 @@ Billing juga dapat mencetak Service Invoice dengan cara klik ![Docusaurus Plushi
 
 ---
 
-### Generate Program Invoice
+### **Generate Program Invoice**
 
 jika Work Order yang mempunyai **Program** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/programinvoice.png) seperti gambar dibawah ini.
 
@@ -73,12 +73,22 @@ masuk ke menu **Program Invoice** lalu klik ![Docusaurus Plushie](/img/general-r
 
 ---
 
-### Generate Insurance Invoice
+### **Generate Insurance Invoice**
+
+jika Work Order yang mempunyai **Insurance** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/insuranceinvoice.png) seperti gambar dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/13.png)
+
+silahkan klik button ![Docusaurus Plushie](/img/general-repair/invoicing/insuranceinvoice.png) untuk melakukan generate invoice
+
+masuk ke menu **Insurance Invoice** lalu klik ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu ![Docusaurus Plushie](/img/general-repair/invoicing/printinvoice.png)
+
+![Docusaurus Plushie](/img/general-repair/invoicing/14.png)
 
 
 ---
 
-### Back To Document Checking
+### **Back To Document Checking**
 
 > Di status **Waiting For Invoice** billing dapat mengembalikan Work Order ke status Document Checking, jika masih ada ingin di tambahkan oleh Service Advisor, dengan cara pada halaman form invoice klik button ![Docusaurus Plushie](/img/general-repair/invoicing/backtodoc.png) pada bagian kiri bawah.
 
@@ -94,10 +104,29 @@ maka Work Order tersebut kembali ke status **Document Checking**
 
 ---
 
-### Credit Note
+### **Credit Note**
+
+:::info
+
+proses ini membutuhkan approval **Kepala Bengkel**
+
+:::
+
+> Pada tahap ini Billing dapat membatalkan invoice yang telah terbit, dengan cara klik menu **Billing - Service Invoice**
+
+pada tampilan list view sebelah kiri klik button ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu klik ![Docusaurus Plushie](/img/general-repair/invoicing/creditnote.png)
+
+![Docusaurus Plushie](/img/general-repair/invoicing/15.png)
+
+lalu akan muncul tampilan form kecil seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/16.png)
+
+deskripsikan alasan nya permintaan credit Note tersebut, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/process.png)
+
+Maka invoice dibatalkan dan Work Order kembali ke status **Document Checking**
 
 ---
-
 
 ### **Request Discount**
 
