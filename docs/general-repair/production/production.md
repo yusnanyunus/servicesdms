@@ -31,7 +31,7 @@ untuk memulai proses pengerjaan unit kendaraan, pada bagian kanan list view klik
 
 ### **Job Suggestion**
 
-> untuk mengisi form jog suggest, pada bagian kanan atas list view klik button ![Docusaurus Plushie](/img/general-repair/production/tambah.png) seperti gambar di bawah ini.
+> untuk mengisi form job suggest, pada bagian kanan atas list view klik button ![Docusaurus Plushie](/img/general-repair/production/tambah.png) seperti gambar di bawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/production/3.png)
 

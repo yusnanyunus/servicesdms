@@ -108,3 +108,41 @@ Keterangan :
 ---
 
 ### **Reminder**
+
+> Pada tahap ini menu Reminder digunakan untuk mengingatkan customer untuk melakukan servis berkala pada unit kendaraan nya, untuk memulai melakukan reminder silahkan klik menu **Appointment - Reminder Active**
+
+![Docusaurus Plushie](/img/mra-og/reminder/1.png)
+
+akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/mra-og/reminder/2.png)
+
+untuk memulai melakukan reminder, silahkan centang terlebih dahulu customer pada list view lalu klik button ![Docusaurus Plushie](/img/mra-og/reminder/blast.png)
+
+![Docusaurus Plushie](/img/mra-og/reminder/3.png)
+
+maka icon centang tersebut berubah menjadi button ![Docusaurus Plushie](/img/mra-og/reminder/tigatitik.png)
+
+![Docusaurus Plushie](/img/mra-og/reminder/4.png)
+
+silahkan klik button tersebut lalu klik button **Edit**
+
+![Docusaurus Plushie](/img/mra-og/reminder/5.png)
+
+maka akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/mra-og/reminder/6.png)
+
+silahkan centang salah satu atau lebih jenis reminder yang diterapkan ke customer.
+
+![Docusaurus Plushie](/img/mra-og/reminder/7.png)
+
+jika customer bersedia datang servis di kemudian hari silahkan centang **booking** lalu isi tanggal di samping nya setelah itu klik button ![Docusaurus Plushie](/img/mra-og/reminder/booking.png) di bagian kanan bawah tampilan, maka secara otomatis akan di arahkan ke menu booking.
+
+setelah semua selesai dicentang dan di isi klik **Save**
+
+![Docusaurus Plushie](/img/mra-og/reminder/8.png)
+
+klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Docusaurus Plushie](/img/mra-og/reminder/download.png).
+
+![Docusaurus Plushie](/img/mra-og/reminder/9.png)
