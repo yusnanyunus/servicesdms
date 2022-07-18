@@ -5,7 +5,7 @@ title: Document Checking
 tags: [document checking, service advisor, SA, work order]
 ---
 
-### Document Checking
+### **Document Checking**
 
 > Sebelum lanjut ke proses Invoicing, Service Advisor dapat melakukan pengecekan data pada dokumen Work Order untuk memastikan data-data pada dokumen sudah sesuai.  Pada gambar dibawah ini merupakan List View Document Checking yang menampilkan list WO dengan status Waiting for Document Checking  dan status Document Checking yang dapat diakses melalui Menu Controller – Document Checking.
 
@@ -25,11 +25,11 @@ Setelah form terisi klik tombol save maka tombol follow up pada form document ch
 
 ![Docusaurus Plushie](/img/general-repair/doc-checking/4.png)
 
-Kemudian klik  , maka Service Advisor akan melanjutkan proses Invoicing oleh Billing.
+Kemudian klik ![Docusaurus Plushie](/img/general-repair/doc-checking/clockoff.png), maka Service Advisor akan melanjutkan proses Invoicing oleh Billing.
 
 ---
 
-### Back To Inspection
+### **Back To Inspection**
 
 > Back to Inspection adalah suatu action yang berfungsi untuk mengembalikan status Work Order ke status Inspection, Berikut ini adalah langkah-langkah untuk mengembalikan WO ke status Inspection.
 
@@ -45,9 +45,9 @@ maka status Work Order kembali ke status **Inspection** silahkan di cek kembali.
 
 ---
 
-### Add Program/Insurance
+### **Add Program/Insurance**
 
-> berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
+> Berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
 
 ![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
 
@@ -58,3 +58,50 @@ Untuk memulai proses penambahan program atau insurance, klik ![Docusaurus Plushi
 klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/doc-checking/8.png)
+
+*Keterangan :*
+
+1. **Pilih Insurance** : Masukkan nama insurer nya.
+2. **Pilih Program** : Masukkan nama pihak ke-3 penyedia program.
+
+Pilih salah satu penyedia potongan harga, lalu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png) pada bagian kanan bawah form.
+
+### **Request Discount**
+
+:::info
+
+proses ini membutuhkan approval :
+
+- Diskon 1 - 15 % : Kepala Bengkel
+- Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
+- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> MO (Head Office) -> GM (Head Office)
+
+:::
+
+> Berikut adalah cara memasukkan diskon baik itu di job maupun part
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
+
+Untuk memulai proses penambahan diskon, klik ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/9.png)
+
+klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/10.png)
+
+setelah di pilih diskon nya, klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png)
+
+lalu akan muncul alert **Success**
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/success.png)
+
+pada bagian bawah kanan list view klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/reqdiskon.png)
+
+lalu akan muncul tampilan form kecil seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/11.png)
+
+deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/process.png)
+
+maka proses pengajuan selesai tinggal menunggu approval dari atasan.
