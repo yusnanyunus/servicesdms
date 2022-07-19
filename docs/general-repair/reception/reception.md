@@ -31,7 +31,7 @@ Setelah identitas customer muncul klik tombol “choose”, maka akan muncul tam
 
 ![Docusaurus Plushie](/img/general-repair/reception/12.png)
 
-untuk melanjutkan ke proses pembuatan **[Create Work Order](https://dms-service.netlify.app/docs/general-repair/create-wo/)**.
+untuk melanjutkan ke proses pembuatan **[Create Work Order](https://dms-service.netlify.app/docs/general-repair/reception/#create-work-order)**.
 
 ---
 #### **Kustomer Tidak Terdaftar**
@@ -157,15 +157,69 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan.
 
 ---
+
+### **Create Estimation**
+
+![Docusaurus Plushie](/img/general-repair/reception/15.png)
+
+![Docusaurus Plushie](/img/general-repair/reception/13.png)
+
+> Halaman ini digunakan untuk membuat form biaya estimasi servis, sebelum nomor Work Order terbit
+
+| Nama Kolom | Deskripsi |
+|--------|--------|
+| Work Order Estimation No |Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Estimation Date |Tanggal dibuat nya work order |
+| Work Order Estimation Status | **Estimation** : Status awal WO |
+| Repair Type | Jenis perbaikan |
+| Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
+| Current Mileage record | Angka kilometer saat datang servis.  |
+| Customer Delivery Date Request | Tanggal dan jam penyerahan ke kustomer. |
+| Remark | Catatan jika diperlukan (tidak wajib) |
+
+---
 ### **Create Diagnostic**
 
->
+![Docusaurus Plushie](/img/general-repair/reception/16.png)
+
+![Docusaurus Plushie](/img/general-repair/reception/14.png)
+
+> Halaman ini digunakan untuk membuat form analisa kerusakan, sebelum nomor Work Order terbit
+
+
+| Nama Kolom | Deskripsi |
+|--------|--------|
+| Work Order Diagnostic No |Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Diagnostic Date |Tanggal dibuat nya work order |
+| Work Order Diagnostic Status | **Diagnostic** : Status awal WO |
+| Foreman | Pilih Nama PTM |
+| Remark | Catatan jika diperlukan (tidak wajib) |
+
+setelah itu klik button ![Docusaurus Plushie](/img/general-repair/reception/saveform.png)
+
+lalu pada bagian bawah tampilan klik button ![Docusaurus Plushie](/img/general-repair/reception/printdiagnostic.png)
+
+![Docusaurus Plushie](/img/general-repair/reception/17.png)
+
+maka akan muncul form seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/reception/18.png)
 
 ---
 
-### **Create Estimate**
+### **Purchase Part**
 
->
+![Docusaurus Plushie](/img/purchase-part/create-wo/1.png)
+
+> Jika ada Customer yang datang kepada Service Advisor hanya untuk membeli part saja tanpa melakukan servis pada unit kendaraanya, petugas Service Advisor dapat membuat Work Order Purchase Part yang difungsikan untuk pembelian part tanpa adanya Job pada Work Order tersebut.
+
+| Nama Kolom | Deskripsi |
+|--------|--------|
+| Work Order No |Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Date |Tanggal dibuat nya work order |
+| Work Order Status | **None** : Status awal WO, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
+| Repair Type | Jenis perbaikan *(terisi otomatis)* |
+| Remark | Catatan jika diperlukan (tidak wajib) |
 
 ---
 

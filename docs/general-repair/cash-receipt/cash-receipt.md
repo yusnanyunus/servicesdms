@@ -7,7 +7,7 @@ tags: [kasir, cashier, seetlement check, seetlement, payment batch, payment, cas
 
 ### Cash Receipt
 
-Petugas kasir dapat meng-entry pembayaran tagihan Invoice pada menu Cashier – Cash Receipt 
+Petugas kasir dapat meng-entry pembayaran tagihan Invoice pada menu Cashier – Payment 
 
 ![Docusaurus Plushie](/img/general-repair/cash-receipt/1.png)
 
