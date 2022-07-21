@@ -136,7 +136,7 @@ proses ini membutuhkan approval :
 
 - Diskon 1 - 15 % : Kepala Bengkel
 - Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
-- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> MO (Head Office) -> GM (Head Office)
+- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office) -> Aftersales General Manager (Head Office)
 
 :::
 
