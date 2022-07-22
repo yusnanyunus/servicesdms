@@ -51,7 +51,7 @@ Setelah security selesai menginput data plat nomor kendaraan, klik button ![Docu
 
 ### **Reception & Dashboard Queue**.
 
-Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monitor berukuran minimum 32” dan disarankan untuk menggunakan pengeras suara jika ruang tunggu service berukuran luas atau dengan tingkat kebisingan sedang. Aplikasi ini menampilkan daftar antrian aktif yang dapat dilihat langsung oleh Customer dan menghasilkan suara panggilan ketika Service Advisor melakukan aksi ![Docusaurus Plushie](/img/general-repair/reception/next.png). 
+Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monitor berukuran minimum 32” dan disarankan untuk menggunakan pengeras suara jika ruang tunggu service berukuran luas atau dengan tingkat kebisingan sedang. Aplikasi ini menampilkan daftar antrian aktif yang dapat dilihat langsung oleh Customer dan menghasilkan suara panggilan ketika Service Advisor melakukan klik pada button ![Docusaurus Plushie](/img/general-repair/reception/next.png). 
 
 Berikut adalah tampilan Dashboard Antrian:
 
@@ -70,7 +70,7 @@ Berikut adalah penjelasan kolom – kolom pada list reception queue :
 | Arrival Time | Tanggal dan Jam Customer masuk ke bengkel |
 | Vehicle Unit | Kendaraan Customer yang terdaftar dalam sistem. |
 | New Customer | Nomor Plat kendaraan untuk Customer yang belum ter-register dalam sistem, atau Customer yang nomor kendaraannya berubah dari data yang terakhir kali tercatat dalam sistem |
-| In Call | Nomor antrian yang sementara di panggil. |
+| In Call | Tercentang jika customer yang sementara di panggil. |
 | Status | Status antrian kendaraan. |
 | Service Advisor | SA yang memanggil antrian/Customer. |
 | Branch | Cabang bengkel aktif. |

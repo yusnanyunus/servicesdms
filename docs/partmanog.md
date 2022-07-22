@@ -208,7 +208,35 @@ proses ini membutuhkan approval **Kepala Bengkel**
 
 > Menu ini digunakan jika ada user atau karyawan yang meminjam part dari gudang baik itu untuk kebutuhan event maupun untuk kebutuhan display, cara nya ialah pilih menu **Partman - Move Warehouse**
 
+lalu pada bagian kanan kiri atas klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/neworder.png)
+
 ![Docusaurus Plushie](/img/partman-og/move-warehouse/1.png)
+
+lalu pada inputan **PIC** masukkan nama penanggung jawab yang meminjam dan inputan **Move To Warehouse** pilih opsi tujuan peminjaman lalu klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/saveform.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/2.png)
+
+maka akan muncul tampilan seperti di bawah ini, klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/addnew.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/3.png)
+
+pada form di bawah ini sebagai contoh, untuk gambar dibawah penulis mengeluarkan part dengan nama **TMO BRAKE CLEANER** dengan quantity yang di keluarkan 3 (tiga), caranya pada inputan **Part No** pilih nomor partnya secara otomatis **Part Name** terisi setelah itu input quantity lalu klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/save.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/4.png)
+
+maka part yang telah dinput akan muncul di list view dibawah, setelah itu klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/movewarehouse.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/5.png)
+
+setelah form move warehouse selesai diisi, maka sisa menunggu approval dari **Kepala Bengkel**, sambil menunggu approval silahkan cetak terlebih dahulu bukti peminjaman dan di approve secara manual antara pihak partsman dan juga Penanggung jawab, dengan cara klik button ![Docusaurus Plushie](/img/partman-og/move-warehouse/titiktiga.png) lalu klik ![Docusaurus Plushie](/img/partman-og/move-warehouse/print.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/6.png)
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/7.png)
+
+setelah form di setujui maka status nya berubah menjadi **Moved** seperti pada gambar di bawah ini.
+
+![Docusaurus Plushie](/img/partman-og/move-warehouse/8.png)
 
 ---
 ### Service Part Supply

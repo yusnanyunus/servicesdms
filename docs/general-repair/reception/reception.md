@@ -217,7 +217,7 @@ maka akan muncul form seperti dibawah ini.
 |--------|--------|
 | Work Order No |Nomor yang ter generate otomatis oleh sistem. |
 | Work Order Date |Tanggal dibuat nya work order |
-| Work Order Status | **None** : Status awal WO, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
+| Work Order Status | **None** : Status awal WO, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
 | Repair Type | Jenis perbaikan *(terisi otomatis)* |
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
@@ -320,6 +320,69 @@ Keterangan :
 ![Docusaurus Plushie](/img/general-repair/print-wo/1.png)
 
 ![Docusaurus Plushie](/img/general-repair/print-wo/2.png)
+
+
+### **Add Program/Insurance**
+
+> Berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
+
+Untuk memulai proses penambahan program atau insurance, klik ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/7.png)
+
+klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/8.png)
+
+*Keterangan :*
+
+1. **Pilih Insurance** : Masukkan nama insurer nya.
+2. **Pilih Program** : Masukkan nama pihak ke-3 penyedia program.
+
+Pilih salah satu penyedia potongan harga, lalu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png) pada bagian kanan bawah form.
+
+### **Request Discount**
+
+:::info
+
+proses ini membutuhkan approval :
+
+- Diskon 1 - 15 % : Kepala Bengkel
+- Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
+- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> MO (Head Office) -> GM (Head Office)
+
+:::
+
+> Berikut adalah cara memasukkan diskon baik itu di job maupun part
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
+
+Untuk memulai proses penambahan diskon, klik ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/9.png)
+
+klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/10.png)
+
+setelah di pilih diskon nya, klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png)
+
+lalu akan muncul alert **Success**
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/success.png)
+
+pada bagian bawah kanan list view klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/reqdiskon.png)
+
+lalu akan muncul tampilan form kecil seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/doc-checking/11.png)
+
+deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/process.png)
+
+maka proses pengajuan selesai tinggal menunggu approval dari atasan.
+
 
 ### **Cancel Work Order**
 

@@ -23,3 +23,5 @@ kemukakan alasan **Exit Permit** lalu klik button ![Docusaurus Plushie](/img/gen
 setelah permintaan Exit Permit disetujui oleh atasan, maka giliran Service Advisor untuk mencetak exit permit untuk customer.
 
 ![Docusaurus Plushie](/img/general-repair/exit-permit/2.png)
+
+secara otomatis **status Work Order berubah dari Invoice menjadi Delivered**.
