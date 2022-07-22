@@ -31,7 +31,7 @@ Setelah identitas customer muncul klik tombol “choose”, maka akan muncul tam
 
 ![Docusaurus Plushie](/img/general-repair/reception/12.png)
 
-untuk melanjutkan ke proses pembuatan **[Create Work Order](https://dms-service.netlify.app/docs/general-repair/reception/#create-work-order)**.
+untuk melanjutkan ke proses pembuatan **[Create Work Order](#create-work-order)**.
 
 ---
 #### **Kustomer Tidak Terdaftar**
@@ -170,12 +170,22 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 |--------|--------|
 | Work Order Estimation No |Nomor yang ter generate otomatis oleh sistem. |
 | Work Order Estimation Date |Tanggal dibuat nya work order |
-| Work Order Estimation Status | **Estimation** : Status awal WO |
 | Repair Type | Jenis perbaikan |
 | Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
 | Current Mileage record | Angka kilometer saat datang servis.  |
-| Customer Delivery Date Request | Tanggal dan jam penyerahan ke kustomer. |
 | Remark | Catatan jika diperlukan (tidak wajib) |
+
+setelah itu klik button ![Docusaurus Plushie](/img/general-repair/reception/saveform.png)
+
+maka akan muncul tampilan seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/reception/19.png)
+
+pada inputan **Plan Service Date** masukkan tanggal rencana datang servis
+
+setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)**, **[Job Order](#job-order)**, **[Part Order](#part-order)** seperti biasa, dilanjutkan klik button ![Docusaurus Plushie](/img/general-repair/reception/calculation.png) untuk menghitung ulang estimasi secara sistem lalu pada bagian bawah tampilan klik button ![Docusaurus Plushie](/img/general-repair/reception/printestimation.png) maka akan muncul hasil cetak estimasi.
+
+![Docusaurus Plushie](/img/general-repair/reception/20.png)
 
 ---
 ### **Create Diagnostic**
