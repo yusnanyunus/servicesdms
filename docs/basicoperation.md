@@ -69,10 +69,8 @@ Berikut ini adalah penjelasan tampilan icon pada list view.
 | ![Docusaurus Plushie](img_basicoperation/btn/6.png) | Menambah keluhan kustomer |
 | ![Docusaurus Plushie](img_basicoperation/btn/7.png) | Menambah job pengerjaan |
 | ![Docusaurus Plushie](img_basicoperation/btn/8.png) | Menambah Part untuk pengerjaan |
-| ![Docusaurus Plushie](img_basicoperation/btn/9.png) | Memilih stall yang akan digunakan untuk pengerjaan unit |
 | ![Docusaurus Plushie](img_basicoperation/btn/10.png) | Menyimpan work order |
 | ![Docusaurus Plushie](img_basicoperation/btn/11.png) | Mencetak work order |
 | ![Docusaurus Plushie](img_basicoperation/btn/12.png) | Melanjutkan ke proses selanjutnya |
 | ![Docusaurus Plushie](img_basicoperation/btn/13.png) | Mengunduh laporan |
 | ![Docusaurus Plushie](img_basicoperation/btn/14.png) | Menghitung ulang total job dan part yang ada pada Work Order |
-| ![Docusaurus Plushie](img_basicoperation/btn/15.png) | Memilih Stall untuk unit kendaraan. |

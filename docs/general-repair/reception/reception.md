@@ -12,7 +12,7 @@ Untuk mencari unit klik menu **Reception - Vehicle Unit**.
 ![Docusaurus Plushie](/img/general-repair/reception/10.png)
 
 Pencarian unit dilakukan menggunakan beberapa metode antara lain:
-1. Plat Nomor
+1. Plat Number
 2. Frame Number
 3. Engine Number
 4. Customer Name
@@ -20,8 +20,9 @@ Pencarian unit dilakukan menggunakan beberapa metode antara lain:
 
 ![Docusaurus Plushie](/img/general-repair/reception/11.png)
 
+---
 
-#### **Kustomer Terdaftar**
+ **Kustomer Terdaftar**
 
 Masukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
@@ -34,7 +35,7 @@ Setelah identitas customer muncul klik tombol “choose”, maka akan muncul tam
 untuk melanjutkan ke proses pembuatan **[Create Work Order](#create-work-order)**.
 
 ---
-#### **Kustomer Tidak Terdaftar**
+ **Kustomer Tidak Terdaftar**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
 ![Docusaurus Plushie](/img/general-repair/reception/5.png)
@@ -53,7 +54,7 @@ Pada bagian Field **Customer Name**, nama nama kustomer sebelumnya sudah terinpu
 
 :::
 
-Setelah Vehicle Details dan Customer Details terisi lengkap, klik tombol ![Docusaurus Plushie](/img/general-repair/reception/saveform.png) lalu akan muncul tampilan seperti dibawah ini.
+Setelah tab **Vehicle Details** dan **Customer Details** terisi lengkap, klik tombol ![Docusaurus Plushie](/img/general-repair/reception/saveform.png) lalu akan muncul tampilan seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/reception/8.png)
 

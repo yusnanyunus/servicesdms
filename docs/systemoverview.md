@@ -12,4 +12,4 @@ hide_title: true
 
 Merupakan sistem yang digunakan untuk mengelola unit perbaikan/service kendaraan mobil Toyota yang ada di lingkup PT. Hadji Kalla.
 
-![Docusaurus Plushie](img_basicoperation/login.png)
+![Docusaurus Plushie](img_basicoperation/front.png)
