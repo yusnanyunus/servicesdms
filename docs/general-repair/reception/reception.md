@@ -5,7 +5,7 @@ title: Reception
 tags: [reception, service advisor, SA, panggil antrian, reception queue, dashboard]
 ---
 
-### **Find Vehicle/Customer**
+## **Find Vehicle/Customer**
 
 Untuk mencari unit klik menu **Reception - Vehicle Unit**. 
 
@@ -22,7 +22,7 @@ Pencarian unit dilakukan menggunakan beberapa metode antara lain:
 
 ---
 
- **Kustomer Terdaftar**
+### **Kustomer Terdaftar**
 
 Masukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
@@ -35,7 +35,7 @@ Setelah identitas customer muncul klik tombol “choose”, maka akan muncul tam
 untuk melanjutkan ke proses pembuatan **[Create Work Order](#create-work-order)**.
 
 ---
- **Kustomer Tidak Terdaftar**
+### **Kustomer Tidak Terdaftar**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
 ![Docusaurus Plushie](/img/general-repair/reception/5.png)
@@ -133,7 +133,7 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 
 --->
 
-### **Create Work Order**
+## **Create Work Order**
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/1.png)
 
@@ -159,7 +159,7 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 
 ---
 
-### **Create Estimation**
+## **Create Estimation**
 
 ![Docusaurus Plushie](/img/general-repair/reception/15.png)
 
@@ -189,7 +189,7 @@ setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)
 ![Docusaurus Plushie](/img/general-repair/reception/20.png)
 
 ---
-### **Create Diagnostic**
+## **Create Diagnostic**
 
 ![Docusaurus Plushie](/img/general-repair/reception/16.png)
 
@@ -218,7 +218,7 @@ maka akan muncul form seperti dibawah ini.
 
 ---
 
-### **Purchase Part**
+## **Purchase Part**
 
 ![Docusaurus Plushie](/img/purchase-part/create-wo/1.png)
 
@@ -232,9 +232,11 @@ maka akan muncul form seperti dibawah ini.
 | Repair Type | Jenis perbaikan *(terisi otomatis)* |
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
+maka dilanjutkan untuk melakukan input part **[Part Order](#part-order)**
+
 ---
 
-### **Walk Arround Check (WAC)**
+## **Walk Arround Check (WAC)**
 
 > Proses Walk Around Check (WAC) merupakan proses pengecekan kondisi kendaraan kustomer sebelum perbaikan dilakukan. Untuk memulai proses WAC, Service Advisor dapat memilih tab WAC lalu klik tombol ![Docusaurus Plushie](/img/general-repair/wac/settingwac.png) seperti pada gambar di bawah ini:
 
@@ -250,7 +252,7 @@ Setelah semua selesai klik tombol ![Docusaurus Plushie](/img/general-repair/wac/
 
 
 ---
-### **Customer Request**
+## **Customer Request**
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/2.png)
 
@@ -263,7 +265,7 @@ Keterangan :
 
 
 ---
-### **Job Order**
+## **Job Order**
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/4.png)
 
@@ -297,7 +299,7 @@ Keterangan :
 
 
 ---
-### **Part Order**
+## **Part Order**
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/6.png)
 
@@ -324,7 +326,7 @@ Keterangan :
 2. Lengkapi inputan yang mandatori *
 3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
 
-### **Print Work Order**
+## **Print Work Order**
 
 > Service Advisor dapat mencetak Work Order dengan cara menekan tombol ![Docusaurus Plushie](/img/general-repair/print-wo/printwo.png)pada bagian bawah tampilan seperti pada gambar dibawah ini.
 
@@ -333,7 +335,7 @@ Keterangan :
 ![Docusaurus Plushie](/img/general-repair/print-wo/2.png)
 
 
-### **Add Program/Insurance**
+## **Add Program/Insurance**
 
 > Berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
 
@@ -354,7 +356,7 @@ klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png
 
 Pilih salah satu penyedia potongan harga, lalu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png) pada bagian kanan bawah form.
 
-### **Request Discount**
+## **Request Discount**
 
 :::info
 
@@ -362,7 +364,7 @@ proses ini membutuhkan approval :
 
 - Diskon 1 - 15 % : Kepala Bengkel
 - Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
-- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> MO (Head Office) -> GM (Head Office)
+- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office) -> Aftersales General Manager (Head Office)
 
 :::
 
@@ -395,7 +397,7 @@ deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Do
 maka proses pengajuan selesai tinggal menunggu approval dari atasan.
 
 
-### **Cancel Work Order**
+## **Cancel Work Order**
 
 :::info
 
