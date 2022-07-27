@@ -10,4 +10,4 @@ tags: [part,picked,partman,faq,Part status has not been picked]
 
 **A :** Error tersebut muncul pada saat Service Advisor belum mengisi tanggal follow up customer, di proses ini service advisor wajib mengisi tanggal follow up, 
 
-lihat di bagian **[Document Checking](../docs/general-repair/doc-checking/)**
+lihat di bagian **[Document Checking](docs/general-repair/doc-checking/)**

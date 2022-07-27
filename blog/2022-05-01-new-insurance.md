@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan insurance yang baru di DMS service
 
-**[Create new insurance](../docs/general#insurance)**
+**[Create new insurance](docs/general#insurance)**

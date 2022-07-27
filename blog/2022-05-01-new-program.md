@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan program baru di DMS service
 
-**[Create new program](../docs/general#program)**
+**[Create new program](docs/general#program)**

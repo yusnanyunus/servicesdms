@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan diskon di DMS service
 
-**[Create new discount](../docs/general#discount)**
+**[Create new discount](docs/general#discount)**

@@ -10,4 +10,4 @@ tags: [part,picked,partman,faq,Part status has not been picked]
 
 **A :** Error tersebut muncul pada saat Partman belum melakukan proses **Picked** part yaitu proses mengeluarkan part dari stok nya, cek disini cara mengeluarkan part dari stoknya, 
 
-lihat di bagian **[Service Part Supply](../docs/partmanog#service-part-supply)**
+lihat di bagian **[Service Part Supply](docs/partmanog#service-part-supply)**

@@ -10,4 +10,4 @@ tags: [Default contact is not selected]
 
 **A :** Error tersebut muncul pada saat Service Advisor belum mengisi data kustomer yang membawa unit kendaraan ke bengkel, silahkan klik link di dibawah ini jika belum mengetahui cara mengisi data contact person di Work order 
 
-**[Contact person](../docs/general-repair/reception/#kustomer-tidak-terdaftar)** *lalu scroll kebawah*
+**[Contact person](docs/general-repair/reception/#kustomer-tidak-terdaftar)** *lalu scroll kebawah*
