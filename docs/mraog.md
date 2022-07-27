@@ -35,7 +35,7 @@ lalu pada bagian kanan tampilan klik button ![Docusaurus Plushie](/img/mra-og/cr
 ### **Appointment Booking (Customer non listed)**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/2.png)
+![Docusaurus Plushie](/img/general-repair/reception/5.png)
 
 Setelah hasil pencarian muncul klik tombol “NEW DATA” klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 

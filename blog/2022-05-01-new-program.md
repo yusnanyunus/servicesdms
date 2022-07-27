@@ -6,7 +6,7 @@ tags: [program, pihak ke tiga, pihak ke 3,FREE JASA]
 
 :::info INFO
 
-Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
+Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 :::
 
@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan program baru di DMS service
 
-**[Create new program](https://dms-service.netlify.app/docs/general#program)**
+**[Create new program](../docs/general#program)**

@@ -10,4 +10,4 @@ tags: [body painting,teknisi,foreman,ptm,BP action no selected]
 
 **A :** Error tersebut muncul pada saat PTM atau Foreman belum mengisi atau melakukan chekclist pada tab BP Action, untuk mengatasi error tersebut silahkan klik link di bawah ini 
 
-lihat di bagian **[Job Distribution](https://dms-service.netlify.app/docs/body-painting/job-distribution/#bp-action)**
+lihat di bagian **[Job Distribution](../docs/body-painting/job-distribution/#bp-action)**

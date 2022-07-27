@@ -6,7 +6,7 @@ tags: [Diskon, discount, tambah diskon, diskon baru]
 
 :::info INFO
 
-Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
+Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 :::
 
@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan diskon di DMS service
 
-**[Create new discount](https://dms-service.netlify.app/docs/general#discount)**
+**[Create new discount](../docs/general#discount)**

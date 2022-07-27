@@ -6,7 +6,7 @@ tags: [insurance, insurer, asuransi]
 
 :::info INFO
 
-Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
+Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 :::
 
@@ -14,4 +14,4 @@ Bagian ini bisa di lakukan khusus untuk jabatan **Kepala Bengkel**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan insurance yang baru di DMS service
 
-**[Create new insurance](https://dms-service.netlify.app/docs/general#insurance)**
+**[Create new insurance](../docs/general#insurance)**

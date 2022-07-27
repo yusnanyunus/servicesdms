@@ -159,11 +159,11 @@ const sidebars = {
 //        "body-painting/print-wo/print-wo",
 //        "body-painting/job-distribution/job-distribution",
 //        "body-painting/production/production",
-//        //"body-painting/service-part-supply/service-part-supply",
+//        "body-painting/service-part-supply/service-part-supply",
 //        "body-painting/inspection/inspection",
 //        "body-painting/doc-checking/doc-checking",
 //        "body-painting/invoicing/invoicing",
-//        //"body-painting/gate-pass/gate-pass",
+//        "body-painting/gate-pass/gate-pass",
 //        "body-painting/cash-receipt/cash-receipt",
 //      ]
 //    },

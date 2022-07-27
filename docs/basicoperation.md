@@ -8,15 +8,18 @@ toc_max_heading_level: 4
 hide_title: true
 ---
 
+## Basic Operation
+
+
 Bagian ini menjelaskan tentang cara pengoperasian dasar Dealer Management System Services.
 
-### Membuka Aplikasi
+### Open Application
 
-Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan Google Chrome terbaru), selanjutnya ketik **[dmsservice.hkalla.co.id](https://dmsservice.hkalla.co.id)** di isian address browser.
+Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan **Google Chrome terbaru**), selanjutnya ketik **[dmsservice.hkalla.co.id](https://dmsservice.hkalla.co.id)** di isian address browser.
 
 ![Docusaurus Plushie](img_basicoperation/url.png)
 
-### Akses Aplikasi
+### Access Application
 
 Untuk akses aplikasi silahkan login menggunakan Email dan Pasword yang telah diberikan.
 
@@ -56,7 +59,7 @@ pada gambar diatas yang di beri kotak merah, digunakan untuk melakukan reset pas
 
 4. **Dashboard Aftersales** : Menampilkan data dalam bentuk grafik dan chart.
 
-### Action Pada List View
+### Action List View
 Berikut ini adalah penjelasan tampilan icon pada list view.
 
 | Action | Fungsi |
