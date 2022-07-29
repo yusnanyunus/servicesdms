@@ -5,6 +5,9 @@ title: Reception
 tags: [reception, service advisor, SA, panggil antrian, reception queue, dashboard]
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 ## **Find Vehicle/Customer**
 
 Untuk mencari unit klik menu **Reception - Vehicle Unit**. 
@@ -135,6 +138,9 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 
 ## **Create Work Order**
 
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
+
 ![Docusaurus Plushie](/img/general-repair/create-wo/1.png)
 
 > Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas. Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View:
@@ -156,10 +162,23 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
 Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan.
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
+
+
 
 ---
 
 ## **Create Estimation**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/reception/15.png)
 
@@ -187,9 +206,20 @@ pada inputan **Plan Service Date** masukkan tanggal rencana datang servis
 setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)**, **[Job Order](#job-order)**, **[Part Order](#part-order)** seperti biasa, dilanjutkan klik button ![Docusaurus Plushie](/img/general-repair/reception/calculation.png) untuk menghitung ulang estimasi secara sistem lalu pada bagian bawah tampilan klik button ![Docusaurus Plushie](/img/general-repair/reception/printestimation.png) maka akan muncul hasil cetak estimasi.
 
 ![Docusaurus Plushie](/img/general-repair/reception/20.png)
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ---
 ## **Create Diagnostic**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/reception/16.png)
 
@@ -215,10 +245,21 @@ lalu pada bagian bawah tampilan klik button ![Docusaurus Plushie](/img/general-r
 maka akan muncul form seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/reception/18.png)
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ---
 
 ## **Purchase Part**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/purchase-part/create-wo/1.png)
 
@@ -233,10 +274,21 @@ maka akan muncul form seperti dibawah ini.
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
 maka dilanjutkan untuk melakukan input part **[Part Order](#part-order)**
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ---
 
 ## **Walk Arround Check (WAC)**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 > Proses Walk Around Check (WAC) merupakan proses pengecekan kondisi kendaraan kustomer sebelum perbaikan dilakukan. Untuk memulai proses WAC, Service Advisor dapat memilih tab WAC lalu klik tombol ![Docusaurus Plushie](/img/general-repair/wac/settingwac.png) seperti pada gambar di bawah ini:
 
@@ -249,7 +301,14 @@ Lalu Service Advisor akan di arahkan untuk melakukan checklist pada form WAC men
 Setelah semua selesai klik tombol ![Docusaurus Plushie](/img/general-repair/wac/save.png), maka proses pengisian form WAC selesai.
 
 ![Docusaurus Plushie](/img/general-repair/wac/3.png)
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
 
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ---
 ## **Customer Request**
@@ -266,6 +325,9 @@ Keterangan :
 
 ---
 ## **Job Order**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/4.png)
 
@@ -293,13 +355,26 @@ Keterangan :
 ![Docusaurus Plushie](/img/general-repair/create-wo/5.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addjoborder.png).
-2. Lengkapi inputan yang mandatori*
-3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
 
+1.Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addjoborder.png).
+
+2.Lengkapi inputan yang mandatori*
+
+3.Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
+
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ---
 ## **Part Order**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/6.png)
 
@@ -322,18 +397,42 @@ Keterangan :
 ![Docusaurus Plushie](/img/general-repair/create-wo/7.png)
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addpart.png).
-2. Lengkapi inputan yang mandatori *
-3. Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
+
+1.Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/addpart.png).
+
+2.Lengkapi inputan yang mandatori*
+
+3.Klik tombol ![Docusaurus Plushie](/img/general-repair/create-wo/save.png)
+
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
+
+---
 
 ## **Print Work Order**
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 > Service Advisor dapat mencetak Work Order dengan cara menekan tombol ![Docusaurus Plushie](/img/general-repair/print-wo/printwo.png)pada bagian bawah tampilan seperti pada gambar dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/print-wo/1.png)
 
 ![Docusaurus Plushie](/img/general-repair/print-wo/2.png)
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
 
+*Not Available*
+  
+  </TabItem>
+</Tabs>
 
 ## **Add Program/Insurance**
 
