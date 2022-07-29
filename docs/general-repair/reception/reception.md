@@ -149,7 +149,7 @@ Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di in
 |--------|--------|
 | Work Order No |Nomor yang ter generate otomatis oleh sistem. |
 | Work Order Date |Tanggal dibuat nya work order |
-| Work Order Status | **None** : Status awal WO, **Booking** :WO Booking, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for job distribution** : Menunggu distribusi Job, **Waiting for technician**	: Menunggu teknisi, **Production** : Pengerjaan Job oleh teknisi, **Waiting for inspection** : Menunggu Inspeksi, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Settlement** : Pembayaran selesai, **Waiting for delivery** : Menunggu penyerahan kendaraan, **Delivered** : Kendaraan telah diserahkan, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
+| Work Order Status | **None** : Status awal WO, **Booking** :WO Booking, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for job distribution** : Menunggu distribusi Job, **Waiting for technician**	: Menunggu teknisi, **Production** : Pengerjaan Job oleh teknisi, **Waiting for inspection** : Menunggu Inspeksi, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Delivered** : Kendaraan telah diserahkan, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
 | Repair Type | Jenis perbaikan |
 | Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
 | Express Maintenance | Pilih **Yes** jika Express maintenance, jika tidak pilih **No** |
@@ -166,12 +166,31 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
   </TabItem>
   <TabItem value="bp" label="Body Painting">
 
-*Not Available*
+![Docusaurus Plushie](/img/body-painting/create-wo/1.png)
+
+![Docusaurus Plushie](/img/body-painting/create-wo/1.1.png)
+
+> Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas, hanya saja untuk work order yang satu ini khusus untuk jenis layanan body painting. Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View:
+
+| Nama Kolom | Deskripsi |
+|--------|--------|
+| Work Order No |Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Date |Tanggal dibuat nya work order |
+| Work Order Status | **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for job distribution** : Menunggu distribusi Job, **Waiting for technician**	: Menunggu teknisi, **Production** : Pengerjaan Job oleh teknisi, **Waiting for inspection** : Menunggu Inspeksi, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Delivered** : Kendaraan telah diserahkan, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
+| Repair Type | Jenis perbaikan |
+| Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
+| Express Maintenance | Pilih **Yes** jika Express maintenance, jika tidak pilih **No** |
+| Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
+| Current Mileage record | Angka kilometer saat datang servis.  |
+| Customer Delivery Date Request | Tanggal dan jam penyerahan ke kustomer. |
+| Customer Waiting | Pilih **Yes** jika customer menunggu, jika tidak pilih **No** |
+| Washing	| Pilih **Yes** jika unit kendaraan ingin di cuci, jika tidak pilih **No** |
+| SPK Reference | Masukkan **nomor SPK** Pembelian jika diperlukan (tidak Wajib) |
+| Stall | Nama stall tempat unit di kerjakan |
+| Remark | Catatan jika diperlukan (tidak wajib) |
   
   </TabItem>
 </Tabs>
-
-
 
 ---
 
@@ -256,7 +275,7 @@ maka akan muncul form seperti dibawah ini.
 
 ---
 
-## **Purchase Part**
+## **Create Purchase Part**
 
 <Tabs>
   <TabItem value="gr" label="General Repair" default>
@@ -429,7 +448,11 @@ Keterangan :
   </TabItem>
   <TabItem value="bp" label="Body Painting">
 
-*Not Available*
+> Service Advisor dapat mencetak Work Order dengan cara menekan tombol ![Docusaurus Plushie](/img/body-painting/print-wo/printwo.png)pada bagian bawah tampilan seperti pada gambar dibawah ini.
+
+![Docusaurus Plushie](/img/body-painting/print-wo/1.png)
+
+![Docusaurus Plushie](/img/body-painting/print-wo/2.png)
   
   </TabItem>
 </Tabs>

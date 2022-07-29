@@ -12,7 +12,7 @@ Pada proses ini membutuhkan approval **Kepala Bengkel**
 
 :::
 
-Untuk proses ini yaitu exit permit dilakukan oleh seorang Service Advisor dengan syarat invoice harus sudah terbit, maka exit permit otomatis dapat di cetak melalui menu **Reception - Work Order List - lalu klik** ![Docusaurus Plushie](/img/general-repair/exit-permit/tigatitik.png) Setelah itu klik tombol ![Docusaurus Plushie](/img/general-repair/exit-permit/printexitpermit.png), silahkan lihat gambar dibawah ini.
+> Untuk proses ini yaitu exit permit dilakukan oleh seorang Service Advisor dengan syarat invoice harus sudah terbit, maka exit permit otomatis dapat di cetak melalui menu **Reception - Work Order List - lalu klik** ![Docusaurus Plushie](/img/general-repair/exit-permit/tigatitik.png) Setelah itu klik tombol ![Docusaurus Plushie](/img/general-repair/exit-permit/printexitpermit.png), silahkan lihat gambar dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/exit-permit/1.png)
 
