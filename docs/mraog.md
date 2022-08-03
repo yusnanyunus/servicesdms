@@ -148,3 +148,38 @@ klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Doc
 ![Docusaurus Plushie](/img/mra-og/reminder/9.png)
 
 ### **Reschedule**
+
+> Menu ini digunakan pada saat customer yang telah booking batal datang servis pada tanggal yang telah di tetapkan oleh MRA, cara nya ialah klik menu **Appointment - Booking List**
+
+![Docusaurus Plushie](/img/mra-og/reschedule/1.png)
+
+maka akan muncul tampilan seperti dibawah ini, pada bagian kanan tampilan klik button seperti pada gambar di bawah ini.
+
+![Docusaurus Plushie](/img/mra-og/reschedule/2.png)
+
+maka pilihan yang muncul ialah sebagai berikut :
+
+- **Today** = Customer booking yang dijadwalkan masuk hari ini.
+- **H+1** = Customer booking lewat 1 hari dari jadwal.
+- **H+2** = Customer booking lewat 2 hari dari jadwal.
+- **H+3** = Customer booking lewat 3 hari dari jadwal.
+- **Late** = Customer booking lewat 4-5 hari atau seterusnya dari jadwal.
+- **All** = Menampilkan semua data customer booking.
+
+![Docusaurus Plushie](/img/mra-og/reschedule/3.png)
+
+sebagai contoh penulis memilih **Late** maka data yang akan muncul seperti di bawah ini.
+
+![Docusaurus Plushie](/img/mra-og/reschedule/4.png)
+
+pada bagian kiri ujung list view klik button ![Docusaurus Plushie](/img/mra-og/reschedule/tigatitik.png) lalu klik button ![Docusaurus Plushie](/img/mra-og/reschedule/reschedule.png)
+
+![Docusaurus Plushie](/img/mra-og/reschedule/5.png)
+
+maka akan muncul form seperti dibawah ini, pada inputan **Reschedule Booking To** masukkan tanggal reschedule nya lalu klik button ![Docusaurus Plushie](/img/mra-og/reschedule/red-reschedule.png)
+
+![Docusaurus Plushie](/img/mra-og/reschedule/6.png)
+
+maka akan muncul pesan *SUCCESS* seperti dibawah ini.
+
+![Docusaurus Plushie](/img/mra-og/reschedule/7.png)
