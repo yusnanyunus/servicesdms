@@ -31,19 +31,19 @@ Masukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka
 
 ![Docusaurus Plushie](/img/general-repair/reception/4.png)
 
-Setelah identitas customer muncul klik tombol “choose”, maka akan muncul tampilan seperti dibawah ini.
+Setelah identitas customer muncul klik tombol ![Docusaurus Plushie](/img/general-repair/reception/choose.png), maka akan muncul tampilan seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/reception/12.png)
 
 untuk melanjutkan ke proses pembuatan **[Create Work Order](#create-work-order)**.
 
----
+
 ### **Kustomer Tidak Terdaftar**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
 ![Docusaurus Plushie](/img/general-repair/reception/5.png)
 
-Setelah hasil pencarian muncul klik tombol “NEW DATA” klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
+Setelah hasil pencarian muncul klik tombol ![Docusaurus Plushie](/img/general-repair/reception/newdata.png) klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/reception/6.png)
 
@@ -73,68 +73,23 @@ Keterangan :
 
 Setelah data **Contact Person** terisi, pada bagian kanan atas tampilan klik tombol ![Docusaurus Plushie](/img/general-repair/reception/workorder.png) maka Service Advisor dilanjutkan untuk membuat Work Order
 
-<!--
+### **Kustomer Dari DMS Desktop**
 
-### Reception
+Masukkan nomor rangka secara lengkap atau bisa juga dengan memasukkan nomor plat atau nomor mesin, namun kali ini contoh nya memasukkan nomor rangka kendaraan, 
 
-> Sistem antrian dalam DMS Service ini terdiri dari 3 modul utama yang ber relasi satu dengan yang lainnya, yaitu : 
+lalu klik button ![Docusaurus Plushie](/img/general-repair/reception/getcustomer.png)
 
----
-### **Gate Trigger Data Awal Antrian**
+![Docusaurus Plushie](/img/general-repair/reception/21.png)
 
-Lihat pada bagian **[Security Gate](http://localhost:3000/docs/general-repair/security-gate/)**.
+maka akan muncul tampilan seperti dibawah ini, klik button ![Docusaurus Plushie](/img/general-repair/reception/go.png)
 
----
-### **Reception Queue Dashboard (Dashboard Antrian)**.
+![Docusaurus Plushie](/img/general-repair/reception/22.png)
 
-Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monitor berukuran minimum 32” dan disarankan untuk menggunakan pengeras suara jika ruang tunggu service berukuran luas atau dengan tingkat kebisingan sedang. Aplikasi ini menampilkan daftar antrian aktif yang dapat dilihat langsung oleh Customer dan menghasilkan suara panggilan ketika Service Advisor melakukan aksi ![Docusaurus Plushie](/img/general-repair/reception/next.png). 
+setelah data kustomer muncul maka di lanjutkan untuk klik button ![Docusaurus Plushie](/img/general-repair/reception/choose.png)
 
-Berikut adalah tampilan Dashboard Antrian:
-
-![Docusaurus Plushie](/img/general-repair/reception/1.png)
-
-Aplikasi web DMS Service yang digunakan Service Advisor untuk memanggil antrian yang sudah teregistrasi dalam sistem, berikut adalah tampilan aplikasi web DMS Service untuk Service Advisor :
-
-![Docusaurus Plushie](/img/general-repair/reception/2.png)
-
-Berikut adalah penjelasan kolom – kolom pada list reception queue :
-
-
-| Nama Kolom | Deskripsi |
-|--------|--------|
-| Queue No | No Tiket/Antrian yang muncul pada print out tiket masuk |
-| Arrival Time | Tanggal dan Jam Customer masuk ke bengkel |
-| Vehicle Unit | Kendaraan Customer yang terdaftar dalam sistem. |
-| New Customer | Nomor Plat kendaraan untuk Customer yang belum ter-register dalam sistem, atau Customer yang nomor kendaraannya berubah dari data yang terakhir kali tercatat dalam sistem |
-| In Call | Nomor antrian yang sementara di panggil. |
-| Status | Status antrian kendaraan. |
-| Service Advisor | SA yang memanggil antrian/Customer. |
-| Branch | Cabang bengkel aktif. |
-| Visit Reason | Tujuan kedatangan Customer |
-
-Berikut adalah fungsi button action yang ada pada bagian atas tampilan :
-
-| Nama Action | Deskripsi |
-|--------|--------|
-| ![Docusaurus Plushie](/img/general-repair/reception/next.png) | Panggil antrian berikutnya. Sistem akan mencari Customer dalam antrian berdasarkan jam kedatangan. | 
-| ![Docusaurus Plushie](/img/general-repair/reception/booking.png) | Panggil antrian berikutnya khusus untuk Customer yang melakukan Booking | 
-| ![Docusaurus Plushie](/img/general-repair/reception/priority.png) | Panggil antrian berikutnya khusus untuk Customer prioritas atau tamu penting. | 
-| ![Docusaurus Plushie](/img/general-repair/reception/selected.png) | Menu ini digunakan untuk memanggil kembali data antrian yang sudah di skip sebelumnya dan hanya akan aktif jika user memilih data dengan status Skip. | 
-| ![Docusaurus Plushie](/img/general-repair/reception/recall.png) | Memanggil ulang antrian yang telah di panggil melalui tombol Call Next, Call Booking atau pun Call Priority. | 
-| ![Docusaurus Plushie](/img/general-repair/reception/skip.png) | Skip antrian aktif, digunakan jika customer tidak ada ditempat saat dipanggil. | 
-| ![Docusaurus Plushie](/img/general-repair/reception/finish.png) | Klik action ini jika Customer yang dipanggil datang ke meja SA | 
-
-![Docusaurus Plushie](/img/general-repair/reception/3.png)
-
-Pada gambar di atas terdapat 3 cara untuk mencari identitas unit kendaraan, yaitu berdasarkan nomor plat, nomor rangka, dan nomor mesin, lalu klik enter atau klik button ![Docusaurus Plushie](/img/general-repair/reception/go.png).
-
-Untuk tahap di reception ada tiga (3) proses untuk memulai, yaitu:
+![Docusaurus Plushie](/img/general-repair/reception/23.png)
 
 ---
-### **Melalui Sistem Antrian** 
-Untuk tahap ini dengan menggunakan sistem antrian jika data unit kendaraan di input di bagian **Security Gate** dan **Service Advisor** tinggal memanggil antrian bisa di lihat pada bagian **[Reception](http://localhost:3000/docs/general-repair/reception/)**.
-
---->
 
 ## **Create Work Order**
 
@@ -196,10 +151,11 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 
 ## **Create Estimation**
 
-<Tabs>
-  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/reception/15.png)
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/reception/13.png)
 
@@ -207,9 +163,10 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
-| Work Order Estimation No |Nomor yang ter generate otomatis oleh sistem. |
-| Work Order Estimation Date |Tanggal dibuat nya work order |
+| Work Order Estimation No | Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Estimation Date | Tanggal dibuat nya work order |
 | Repair Type | Jenis perbaikan |
+| Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
 | Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
 | Current Mileage record | Angka kilometer saat datang servis.  |
 | Remark | Catatan jika diperlukan (tidak wajib) |
@@ -229,7 +186,32 @@ setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)
   </TabItem>
   <TabItem value="bp" label="Body Painting">
 
-*Not Available*
+![Docusaurus Plushie](/img/general-repair/reception/24.png)
+
+> Halaman ini digunakan untuk membuat form biaya estimasi servis, sebelum nomor Work Order terbit
+
+| Nama Kolom | Deskripsi |
+|--------|--------|
+| Work Order Estimation No | Nomor yang ter generate otomatis oleh sistem. |
+| Work Order Estimation Date | Tanggal dibuat nya work order |
+| Repair Type | Jenis perbaikan |
+| Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
+| Own Risk | Jumlah biaya yang di tanggung oleh kustomer |
+| Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
+| Current Mileage record | Angka kilometer saat datang servis.  |
+| Remark | Catatan jika diperlukan (tidak wajib) |
+
+setelah itu klik button ![Docusaurus Plushie](/img/general-repair/reception/saveform.png)
+
+maka akan muncul tampilan seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/reception/25.png)
+
+pada inputan **Plan Service Date** masukkan tanggal rencana datang servis
+
+setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)**, **[Job Order](#job-order)**, **[Part Order](#part-order)** seperti biasa, dilanjutkan klik button ![Docusaurus Plushie](/img/general-repair/reception/calculation.png) untuk menghitung ulang estimasi secara sistem lalu pada bagian bawah tampilan klik button ![Docusaurus Plushie](/img/general-repair/reception/printestimation.png) maka akan muncul hasil cetak estimasi.
+
+![Docusaurus Plushie](/img/general-repair/reception/26.png)
   
   </TabItem>
 </Tabs>
@@ -457,6 +439,8 @@ Keterangan :
   </TabItem>
 </Tabs>
 
+<!---
+
 ## **Add Program/Insurance**
 
 > Berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
@@ -518,6 +502,7 @@ deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Do
 
 maka proses pengajuan selesai tinggal menunggu approval dari atasan.
 
+-->
 
 ## **Cancel Work Order**
 

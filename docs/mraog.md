@@ -146,3 +146,5 @@ setelah semua selesai dicentang dan di isi klik **Save**
 klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Docusaurus Plushie](/img/mra-og/reminder/download.png).
 
 ![Docusaurus Plushie](/img/mra-og/reminder/9.png)
+
+### **Reschedule**
