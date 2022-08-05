@@ -149,7 +149,7 @@ klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Doc
 
 ### **Reschedule**
 
-> Menu ini digunakan pada saat customer yang telah booking batal datang servis pada tanggal yang telah di tetapkan oleh MRA, cara nya ialah klik menu **Appointment - Booking List**
+> Menu ini digunakan pada saat customer yang telah booking batal datang servis dan ingin mengubah jadwal booking di hari lain, cara nya ialah klik menu **Appointment - Booking List**
 
 ![Docusaurus Plushie](/img/mra-og/reschedule/1.png)
 
@@ -183,3 +183,36 @@ maka akan muncul form seperti dibawah ini, pada inputan **Reschedule Booking To*
 maka akan muncul pesan *SUCCESS* seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/mra-og/reschedule/7.png)
+
+### **Cancel Booking**
+
+> Menu cancel booking digunakan pada saat customer yang telah booking batal datang servis dengan alasan tertentu pada tanggal yang telah di tetapkan oleh MRA, cara nya ialah klik menu **Appointment - Booking List**
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/1.png)
+
+maka akan muncul tampilan seperti dibawah ini, pada bagian kanan tampilan klik button seperti pada gambar di bawah ini.
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/2.png)
+
+maka pilihan yang muncul ialah sebagai berikut :
+
+- **Today** = Customer booking yang dijadwalkan masuk hari ini.
+- **H+1** = Customer booking lewat 1 hari dari jadwal.
+- **H+2** = Customer booking lewat 2 hari dari jadwal.
+- **H+3** = Customer booking lewat 3 hari dari jadwal.
+- **Late** = Customer booking lewat 4-5 hari atau seterusnya dari jadwal.
+- **All** = Menampilkan semua data customer booking.
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/3.png)
+
+sebagai contoh penulis memilih **Late** maka data yang akan muncul seperti di bawah ini.
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/4.png)
+
+pada bagian kiri ujung list view klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/tigatitik.png) lalu klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/cancel.png)
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/5.png)
+
+maka akan muncul form seperti dibawah ini, pada inputan **Reason Cancel** masukkan alasan kustomer batal booking lalu klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/save.png)
+
+![Docusaurus Plushie](/img/mra-og/cancel-booking/6.png)

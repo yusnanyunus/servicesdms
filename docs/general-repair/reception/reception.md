@@ -25,7 +25,7 @@ Pencarian unit dilakukan menggunakan beberapa metode antara lain:
 
 ---
 
-### **Kustomer Terdaftar**
+### **Customer registered**
 
 Masukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
@@ -38,7 +38,7 @@ Setelah identitas customer muncul klik tombol ![Docusaurus Plushie](/img/general
 untuk melanjutkan ke proses pembuatan **[Create Work Order](#create-work-order)**.
 
 
-### **Kustomer Tidak Terdaftar**
+### **Customer non listed**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
 ![Docusaurus Plushie](/img/general-repair/reception/5.png)
@@ -73,7 +73,7 @@ Keterangan :
 
 Setelah data **Contact Person** terisi, pada bagian kanan atas tampilan klik tombol ![Docusaurus Plushie](/img/general-repair/reception/workorder.png) maka Service Advisor dilanjutkan untuk membuat Work Order
 
-### **Kustomer Dari DMS Desktop**
+### **Customer by legacy**
 
 Masukkan nomor rangka secara lengkap atau bisa juga dengan memasukkan nomor plat atau nomor mesin, namun kali ini contoh nya memasukkan nomor rangka kendaraan, 
 
@@ -93,31 +93,33 @@ setelah data kustomer muncul maka di lanjutkan untuk klik button ![Docusaurus Pl
 
 ## **Create Work Order**
 
+> Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas, Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View baik itu General Repair maupun Body Painting:
+
 <Tabs>
   <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/general-repair/create-wo/1.png)
 
-> Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas. Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View:
+![Docusaurus Plushie](/img/general-repair/create-wo/1x.png)
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
 | Work Order No |Nomor yang ter generate otomatis oleh sistem. |
 | Work Order Date |Tanggal dibuat nya work order |
 | Work Order Status | **None** : Status awal WO, **Booking** :WO Booking, **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for job distribution** : Menunggu distribusi Job, **Waiting for technician**	: Menunggu teknisi, **Production** : Pengerjaan Job oleh teknisi, **Waiting for inspection** : Menunggu Inspeksi, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Delivered** : Kendaraan telah diserahkan, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
-| Repair Type | Jenis perbaikan |
+| Repair Type | **GR (General Repair)** = Jenis perbaikan |
 | Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
 | Express Maintenance | Pilih **Yes** jika Express maintenance, jika tidak pilih **No** |
 | Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
 | Current Mileage record | Angka kilometer saat datang servis.  |
+| Plan Service Date | Tanggal dan jam rencana servis selanjutnya |
 | Customer Delivery Date Request | Tanggal dan jam penyerahan ke kustomer. |
 | Customer Waiting | Pilih **Yes** jika customer menunggu, jika tidak pilih **No** |
 | Washing	| Pilih **Yes** jika unit kendaraan ingin di cuci, jika tidak pilih **No** |
 | SPK Reference | Masukkan **nomor SPK** Pembelian jika diperlukan (tidak Wajib) |
+| Stall | Nama stall tempat unit di kerjakan |
 | Remark | Catatan jika diperlukan (tidak wajib) |
 
-Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan.
-  
   </TabItem>
   <TabItem value="bp" label="Body Painting">
 
@@ -125,18 +127,17 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 
 ![Docusaurus Plushie](/img/body-painting/create-wo/1.1.png)
 
-> Pembuatan Work Order merupakan kelanjutan dari proses-proses sebelumnya. Work Order merupakan Detail View yang berbentuk Master-Detail Form yang terdiri atas Work Order data dan beberapa detail seperti pada gambar di atas, hanya saja untuk work order yang satu ini khusus untuk jenis layanan body painting. Berikut adalah elemen-elemen UI yang penting dalam Work Order Detail View:
-
 | Nama Kolom | Deskripsi |
 |--------|--------|
 | Work Order No |Nomor yang ter generate otomatis oleh sistem. |
 | Work Order Date |Tanggal dibuat nya work order |
 | Work Order Status | **Waiting for reception** : Menunggu penerimaan SA, **Reception**	: Proses Penerimaan, **Waiting for job distribution** : Menunggu distribusi Job, **Waiting for technician**	: Menunggu teknisi, **Production** : Pengerjaan Job oleh teknisi, **Waiting for inspection** : Menunggu Inspeksi, **Inspection** : Inspeksi Job, **Waiting for document checking** : Menunggu pengecekan dokumen, **Document checking**	: Pengecekan dokumen, **Waiting for invoice** : Menunggu pembuatan invoice, **Invoice**	: Pembuatan invoice selesai, **Waiting for payment** : Menunggu pembayaran, **Delivered** : Kendaraan telah diserahkan, **Cancel** : dibatalkan, **Waiting Approval** : menunggu persetujuan atasan |
-| Repair Type | Jenis perbaikan |
+| Repair Type | **BP (Body Paint)** = Jenis perbaikan |
 | Mobile Service Type | Diisi khusus jika pelayanan servis mobile seperti TMC dan DMC |
 | Express Maintenance | Pilih **Yes** jika Express maintenance, jika tidak pilih **No** |
 | Last Mileage Record | Angka kilometer terisi jika unit pernah datang servis sebelumnya |
 | Current Mileage record | Angka kilometer saat datang servis.  |
+| Plan Service Date | Tanggal dan jam rencana servis selanjutnya |
 | Customer Delivery Date Request | Tanggal dan jam penyerahan ke kustomer. |
 | Customer Waiting | Pilih **Yes** jika customer menunggu, jika tidak pilih **No** |
 | Washing	| Pilih **Yes** jika unit kendaraan ingin di cuci, jika tidak pilih **No** |
@@ -147,6 +148,8 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
   </TabItem>
 </Tabs>
 
+Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada tab **Job Order**, bergantung kepada tujuan kedatangan Customer. Selain itu, Service Advisor juga dapat memasukkan keluhan-keluhan yang dialami oleh Customer melalui tab **Customer Request**. Part-part yang dibutuhkan dalam proses service dapat di-input pada tab **Part Order** dan juga **WAC** proses pengecekan kondisi kustomer sebelum di lakukan perbaikan.
+  
 ---
 
 ## **Create Estimation**
@@ -219,10 +222,10 @@ setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)
 ---
 ## **Create Diagnostic**
 
+![Docusaurus Plushie](/img/general-repair/reception/16.png)
+
 <Tabs>
   <TabItem value="gr" label="General Repair" default>
-
-![Docusaurus Plushie](/img/general-repair/reception/16.png)
 
 ![Docusaurus Plushie](/img/general-repair/reception/14.png)
 
@@ -259,12 +262,12 @@ maka akan muncul form seperti dibawah ini.
 
 ## **Create Purchase Part**
 
+> Jika ada Customer yang datang kepada Service Advisor hanya untuk membeli part saja tanpa melakukan servis pada unit kendaraanya, petugas Service Advisor dapat membuat Work Order Purchase Part yang difungsikan untuk pembelian part tanpa adanya Job pada Work Order tersebut.
+
 <Tabs>
   <TabItem value="gr" label="General Repair" default>
 
 ![Docusaurus Plushie](/img/purchase-part/create-wo/1.png)
-
-> Jika ada Customer yang datang kepada Service Advisor hanya untuk membeli part saja tanpa melakukan servis pada unit kendaraanya, petugas Service Advisor dapat membuat Work Order Purchase Part yang difungsikan untuk pembelian part tanpa adanya Job pada Work Order tersebut.
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
@@ -412,6 +415,11 @@ Keterangan :
 *Not Available*
   
   </TabItem>
+  <TabItem value="prt" label="Purchase Part">
+
+*Not Available*
+  
+  </TabItem>
 </Tabs>
 
 ---
@@ -421,7 +429,7 @@ Keterangan :
 <Tabs>
   <TabItem value="gr" label="General Repair" default>
 
-> Service Advisor dapat mencetak Work Order dengan cara menekan tombol ![Docusaurus Plushie](/img/general-repair/print-wo/printwo.png)pada bagian bawah tampilan seperti pada gambar dibawah ini.
+> Service Advisor dapat mencetak Work Order dengan cara menekan tombol ![Docusaurus Plushie](/img/body-painting/print-wo/printwo.png)pada bagian bawah tampilan seperti pada gambar dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/print-wo/1.png)
 
@@ -439,19 +447,11 @@ Keterangan :
   </TabItem>
 </Tabs>
 
-<!---
+---
 
 ## **Add Program/Insurance**
 
-> Berikut ini adalah langkah-langkah cara menambahkan program atau insurance baik itu di job maupun part.
-
-![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
-
-Untuk memulai proses penambahan program atau insurance, klik ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
-
-![Docusaurus Plushie](/img/general-repair/doc-checking/7.png)
-
-klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
+> Berikut ini adalah cara menambahkan program atau insurance baik itu di job maupun part.
 
 ![Docusaurus Plushie](/img/general-repair/doc-checking/8.png)
 
@@ -461,6 +461,8 @@ klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png
 2. **Pilih Program** : Masukkan nama pihak ke-3 penyedia program.
 
 Pilih salah satu penyedia potongan harga, lalu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/save.png) pada bagian kanan bawah form.
+
+---
 
 ## **Request Discount**
 
@@ -475,14 +477,6 @@ proses ini membutuhkan approval :
 :::
 
 > Berikut adalah cara memasukkan diskon baik itu di job maupun part
-
-![Docusaurus Plushie](/img/general-repair/doc-checking/5.png)
-
-Untuk memulai proses penambahan diskon, klik ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
-
-![Docusaurus Plushie](/img/general-repair/doc-checking/9.png)
-
-klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/tigatitik.png), maka akan muncul form job seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/doc-checking/10.png)
 
@@ -502,7 +496,7 @@ deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Do
 
 maka proses pengajuan selesai tinggal menunggu approval dari atasan.
 
--->
+---
 
 ## **Cancel Work Order**
 
