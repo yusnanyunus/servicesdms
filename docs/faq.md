@@ -8,9 +8,7 @@ hide_title: true
 
 ### Password Expired
 
-**Q :** Muncul error seperti dibawah ini pada saat proses document checking apa yang harus saya lakukan ?
-
-![Docusaurus Plushie](/img/faq/passwordexpired/image1.png)
+**Q :** 
 
 **A :**
 
