@@ -30,9 +30,9 @@ Setelah itu klik tombol **Apply Group Head/Technician** maka kolom Technician ot
 
 ### **BP Action**
 
-> Setelah job yang di input oleh service advisor sudah di disitribusi oleh seorang controller atau foreman, maka di lanjutkan untuk melakukan checklist atau memilih job standar untuk body painting yang mana saja akan di kerjakan oleh teknisi.
+> Setelah job yang di input oleh service advisor sudah di disitribusi oleh seorang controller atau foreman, maka di lanjutkan untuk melakukan checklist atau memasukkan job standar untuk body painting yang mana saja akan di kerjakan oleh teknisi.
 
-klik tab **BP Action** lalu pilih nama teknisi Body Painting setelah itu klik button **Apply** seperti gambar di bawah ini.
+klik tab **BP Action** lalu pilih nama PTM/Foreman Body Painting setelah itu klik button **Apply** seperti gambar di bawah ini.
 
 ![Docusaurus Plushie](/img/body-painting/job-distribution/4.png)
 
@@ -40,7 +40,7 @@ lihat gambar di bawah ini untuk melakukan checklist job standar body painting ya
 
 ![Docusaurus Plushie](/img/body-painting/job-distribution/6.png)
 
-lalu centang job yang akan dihandling, pada gambar di bawah merupakan contoh yang dibuat oleh penulis, nanti di tentukan oleh masing-masing PTM atau foreman tergantung skala pengerjaan unit nya.
+lalu centang job yang akan dihandling secara berurut, pada gambar di bawah merupakan contoh yang dibuat oleh penulis, nanti di tentukan oleh masing-masing PTM atau foreman tergantung skala urutan pengerjaan unit nya.
 
 ![Docusaurus Plushie](/img/body-painting/job-distribution/7.png)
 

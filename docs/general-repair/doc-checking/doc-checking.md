@@ -72,9 +72,11 @@ Pilih salah satu penyedia potongan harga, lalu klik button ![Docusaurus Plushie]
 
 proses ini membutuhkan approval :
 
-- Diskon 1 - 15 % : Kepala Bengkel
-- Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
-- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Manager Operation (Head Office) -> Aftersales General Manager (Head Office)
+- Diskon 0 - 5 % : tidak membutuhkan approval.
+- Diskon 5,1 - 20 % : Kepala Bengkel.
+- Diskon 20,1 - 25 % : Kepala Bengkel -> Kepala Cabang.
+- Diskon 25,1 - 30 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office).
+- Diskon 30,1 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office) -> Aftersales General Manager (Head Office).
 
 :::
 

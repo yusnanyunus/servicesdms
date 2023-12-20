@@ -2,7 +2,7 @@
 sidebar_position: 12
 id: invoicing
 title: Invoicing
-tags : [Invoicing, service invoice, program invoice, insurance invoice, billing, admin service, credit note, CN]
+tags : [Invoicing, service invoice, program invoice, insurance invoice, billing, admin service, credit note, CN, proforma, proforma invoice]
 ---
 
 ### **Invoicing**
@@ -13,10 +13,27 @@ tags : [Invoicing, service invoice, program invoice, insurance invoice, billing,
 
 Berikut ini adalah Invoice yang dapat di-generate oleh petugas Billing, yaitu:
 
+- **Proforma Invoice**, untuk membuat estimasi invoice, sebelum menerbitkan invoice asli nya.
 - **Service Invoice**, untuk ditagihkan kepada Customer.
 - **Program Invoice**,  untuk ditagihkan kepada pihak ke-3 yang menyediakan program, baik program jasa maupun program part.
 - **Insurance Invoice**, untuk ditagihkan kepada Insurer yang menyediakan klaim asuransi pada Jasa maupun Part.
 - **Credit Note**, untuk membatalkan Invoice yang sudah di-generate di sistem.
+
+---
+
+### **Back To Document Checking**
+
+> Di status **Waiting For Invoice** billing dapat mengembalikan Work Order ke status Document Checking, jika masih ada ingin di tambahkan oleh Service Advisor, dengan cara pada halaman form invoice klik button ![Docusaurus Plushie](/img/general-repair/invoicing/backtodoc.png) pada bagian kiri bawah.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/6.png)
+
+lalu akan muncul tampilan form kecil seperti di bawah ini.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/7.png)
+
+deskripsikan alasan nya kenapa Work Order tersebut harus kembali ke status document checking, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/invoicing/backtodoc2.png)
+
+maka Work Order tersebut kembali ke status **Document Checking**
 
 ---
 
@@ -38,12 +55,32 @@ maka akan muncul alert **Calculation Success** yang menandakan proses kalkulasi 
 
 ![Docusaurus Plushie](/img/general-repair/invoicing/calsuccess.png)
 
+---
+
+### **Proforma Invoice**
+> Proforma invoice ialah estimasi servis atau invoice sementara yang di berikan ke pihak customer sebelum menerbitkan invoice yang asli,dengan cara klik menu **Billing - Invoicing**
+
+lalu akan muncul tampilan seperti dibawah ini
+
+![Docusaurus Plushie](/img/general-repair/invoicing/9.png)
+
+pada bagian kiri list view klik button ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) maka akan muncul form invoice, lalu klik button ![Docusaurus Plushie](/img/general-repair/invoicing/proforma.png) pada bagian bawah form.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/17.png)
+
+setelah itu klik button ![Docusaurus Plushie](/img/general-repair/invoicing/printproforma.png), lihat pada gambar dibawah ini.
+
+![Docusaurus Plushie](/img/general-repair/invoicing/18.png)
+
+maka akan muncul cetakan **Proforma Invoice** 
+
+![Docusaurus Plushie](/img/general-repair/invoicing/19.png)
 
 ---
 
 ### **Generate Service Invoice**
 
-Untuk memulai proses Invoicing, klik ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
+> Untuk memulai proses Invoicing, klik ![Docusaurus Plushie](/img/general-repair/invoicing/tigatitik.png) lalu akan muncul tampilan seperti dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/invoicing/2.png)
 
@@ -61,7 +98,7 @@ Billing juga dapat mencetak Service Invoice dengan cara klik ![Docusaurus Plushi
 
 ### **Generate Program Invoice**
 
-jika Work Order yang mempunyai **Program** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/programinvoice.png) seperti gambar dibawah ini.
+> jika Work Order yang mempunyai **Program** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/programinvoice.png) seperti gambar dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/invoicing/3.png)
 
@@ -75,7 +112,7 @@ masuk ke menu **Program Invoice** lalu klik ![Docusaurus Plushie](/img/general-r
 
 ### **Generate Insurance Invoice**
 
-jika Work Order yang mempunyai **Insurance** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/insuranceinvoice.png) seperti gambar dibawah ini.
+> jika Work Order yang mempunyai **Insurance** maka otomatis tombol ![Docusaurus Plushie](/img/general-repair/invoicing/serviceinvoice.png) berubah menjadi tombol ![Docusaurus Plushie](/img/general-repair/invoicing/insuranceinvoice.png) seperti gambar dibawah ini.
 
 ![Docusaurus Plushie](/img/general-repair/invoicing/13.png)
 
@@ -88,27 +125,12 @@ masuk ke menu **Insurance Invoice** lalu klik ![Docusaurus Plushie](/img/general
 
 ---
 
-### **Back To Document Checking**
-
-> Di status **Waiting For Invoice** billing dapat mengembalikan Work Order ke status Document Checking, jika masih ada ingin di tambahkan oleh Service Advisor, dengan cara pada halaman form invoice klik button ![Docusaurus Plushie](/img/general-repair/invoicing/backtodoc.png) pada bagian kiri bawah.
-
-![Docusaurus Plushie](/img/general-repair/invoicing/6.png)
-
-lalu akan muncul tampilan form kecil seperti di bawah ini.
-
-![Docusaurus Plushie](/img/general-repair/invoicing/7.png)
-
-deskripsikan alasan nya kenapa Work Order tersebut harus kembali ke status document checking, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/invoicing/backtodoc2.png)
-
-maka Work Order tersebut kembali ke status **Document Checking**
-
----
 
 ### **Credit Note**
 
 :::info
 
-proses ini membutuhkan approval **Kepala Bengkel**
+proses ini membutuhkan approval **Service Manager**, **Administration Head**, **Branch Manager** 
 
 :::
 
@@ -134,9 +156,12 @@ Maka invoice dibatalkan dan Work Order kembali ke status **Document Checking**
 
 proses ini membutuhkan approval :
 
-- Diskon 1 - 15 % : Kepala Bengkel
-- Diskon 16 - 25 % : Kepala Bengkel -> Kepala Cabang
-- Diskon 26 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office) -> Aftersales General Manager (Head Office)
+- Diskon 0 - 5 % : tidak membutuhkan approval.
+- Diskon 5,1 - 20 % : Kepala Bengkel.
+- Diskon 20,1 - 25 % : Kepala Bengkel -> Kepala Cabang.
+- Diskon 25,1 - 30 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office).
+- Diskon 30,1 - 100 % : Kepala Bengkel -> Kepala Cabang -> Aftersales Operation Manager (Head Office) -> Aftersales General Manager (Head Office).
+
 
 :::
 
@@ -166,4 +191,4 @@ lalu akan muncul tampilan form kecil seperti di bawah ini.
 
 deskripsikan alasan nya permintaan diskon tersebut, setelah itu klik button ![Docusaurus Plushie](/img/general-repair/doc-checking/process.png)
 
-maka proses pengajuan selesai tinggal menunggu approval dari atasan.
+maka proses pengajuan selesai dan **Work Order tidak bisa dilanjutkan ke tahap invoice sebelum di approval oleh pejabat bersangkutan**.

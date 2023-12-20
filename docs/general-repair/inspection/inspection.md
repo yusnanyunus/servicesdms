@@ -32,6 +32,10 @@ Keterangan :
 2. klik tombol ![Docusaurus Plushie](/img/general-repair/inspection/on.png) lalu klik ![Docusaurus Plushie](/img/general-repair/inspection/yes.png) untuk memulai pencucian.
 3. Setelah pencucian mobil selesai, klik ![Docusaurus Plushie](/img/general-repair/inspection/off.png) lalu klik ![Docusaurus Plushie](/img/general-repair/inspection/yes.png) maka pencucian selesai.
 
+*Note* :
+
+jika memang tidak jadi di lakukan pencucian pada unit kendaraan silahkan klik button **Skip**
+
 :::
 
 ---

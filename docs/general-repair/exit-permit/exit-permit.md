@@ -4,7 +4,7 @@ id: exit-permit
 title: Print Exit Permit
 ---
 
-### Print Exit Permit
+### **Print Exit Permit**
 
 :::info INFO
 

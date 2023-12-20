@@ -15,7 +15,7 @@ Bagian ini menjelaskan tentang cara pengoperasian dasar Dealer Management System
 
 ### Open Application
 
-Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan **Google Chrome terbaru**), selanjutnya ketik **[dmsservice.hkalla.co.id](https://dmsservice.hkalla.co.id)** di isian address browser.
+Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan **Google Chrome terbaru**), selanjutnya ketik **[dmsservicelive.hkalla.co.id](https://dmsservicelive.hkalla.co.id)** di isian address browser.
 
 ![Docusaurus Plushie](img_basicoperation/url.png)
 
@@ -57,8 +57,9 @@ pada gambar diatas yang di beri kotak merah, digunakan untuk melakukan reset pas
 
 ![Docusaurus Plushie](img_basicoperation/dropdown.png)
 
-4. **Dashboard Aftersales** : Menampilkan data dalam bentuk grafik dan chart.
+<!---4. **Dashboard Aftersales** : Menampilkan data dalam bentuk grafik dan chart. -->
 
+<!--
 ### Action List View
 Berikut ini adalah penjelasan tampilan icon pada list view.
 
@@ -77,3 +78,4 @@ Berikut ini adalah penjelasan tampilan icon pada list view.
 | ![Docusaurus Plushie](img_basicoperation/btn/12.png) | Melanjutkan ke proses selanjutnya |
 | ![Docusaurus Plushie](img_basicoperation/btn/13.png) | Mengunduh laporan |
 | ![Docusaurus Plushie](img_basicoperation/btn/14.png) | Menghitung ulang total job dan part yang ada pada Work Order |
+-->

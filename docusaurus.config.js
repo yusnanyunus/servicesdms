@@ -63,7 +63,7 @@ const config = {
       },
       footer: {
         style: 'light',
-        copyright: `Copyright © ${new Date().getFullYear()} DMS Services, Inc. Built with CICT Kalla Group.`,
+        copyright: `Copyright © 2022 DMS Services, Inc. Built with CICT Kalla Group.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -87,5 +87,4 @@ const config = {
 
     }),
 };
-
 module.exports = config;

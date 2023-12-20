@@ -75,7 +75,7 @@ Setelah form di atas lengkapi, klik tombol ![Docusaurus Plushie](/img/mra-og/cre
 
 Lalu dilanjutkan untuk penginputan Job Order yang merupakan proses mandatori yang ada di order booking.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/8.png)
+![Docusaurus Plushie](/img/mra-og/create-booking/8.png)xxx
 
 | Nama Kolom | Deskripsi |
 |--------|--------|

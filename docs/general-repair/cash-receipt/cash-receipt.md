@@ -27,6 +27,8 @@ setelah itu di lanjutkan di proses **Settlement Check**, pada menu Cashier - Pay
 
 pada bagian kiri tampilan list tabel, klik button ![Docusaurus Plushie](/img/general-repair/cash-receipt/tigatitik.png), lalu klik ![Docusaurus Plushie](/img/general-repair/cash-receipt/seatle-check.png), pastikan nilai outstanding nya **Rp. 0**
 
+---
+
 ### **Print Gate Pass**
 
 > Untuk proses ini yaitu Gate Pass dilakukan oleh seorang Cashier dengan syarat invoice telah terbayar secara sistem di aplikasi oracle, maka gate pass otomatis dapat di cetak melalui menu **Cashier - Payment Paid - lalu klik** ![Docusaurus Plushie](/img/general-repair/cash-receipt/tigatitik.png) Setelah itu klik tombol ![Docusaurus Plushie](/img/general-repair/cash-receipt/printgatepass.png), silahkan lihat gambar dibawah ini.

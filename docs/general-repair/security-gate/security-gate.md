@@ -43,7 +43,6 @@ jika unit kendaraan yang datang sebelumnya belum pernah servis maka inputan **Cu
 | Priority BP | Khusus kustomer prioritas atau tamu penting tujuan Body Painting|
 | Part GR | Kustomer hanya datang beli spareparts untuk General Repair	|
 | Part BP |	Kustomer hanya datang beli spareparts untuk Body Painting |
-| other	| Kustomer dengan tujuan lain |
 
 Setelah security selesai menginput data plat nomor kendaraan, klik button ![Docusaurus Plushie](/img/general-repair/security-gate/ok.png) pada bagian kanan bawah, maka otomatis diarahkan untuk mencetat tiket antrian :
 
