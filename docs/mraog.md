@@ -8,6 +8,8 @@ hide_title: true
 tags: [booking, MRA, appointment, reminder, kustomer terdaftar, kustomer tidak terdaftar]
 ---
 
+import Image from '@theme/IdealImage';
+
 
 ### **Create Booking**
 
@@ -22,24 +24,24 @@ Untuk tahap di menu **booking** ada dua (2) proses untuk memulai, yaitu:
 
 Caranya ialah dengan memasukkan nomor plat secara lengkap atau bisa juga dengan memasukkan nomor rangka atau nomor mesin, namun kali ini contoh nya memasukkan nomor plat kendaraan.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/1.png)
+<Image img={require('/img/mra-og/create-booking/1.png')} />
 
 Setelah identitas customer muncul klik tombol "choose" untuk melanjutkan ke proses pembuatan **Create Booking**.
 
-lalu pada bagian kanan tampilan klik button ![Docusaurus Plushie](/img/mra-og/create-booking/booking.png) seperti gambar di bawah ini.
+lalu pada bagian kanan tampilan klik button <Image img={require('/img/mra-og/create-booking/booking.png')} /> seperti gambar di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/1.1.png)
+<Image img={require('/img/mra-og/create-booking/1.1.png')} />
 
 ---
 
 ### **Appointment Booking (Customer non listed)**
 Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, minimal 3 karakter.
 
-![Docusaurus Plushie](/img/general-repair/reception/5.png)
+<Image img={require('/img/general-repair/reception/5.png')} />
 
 Setelah hasil pencarian muncul klik tombol “NEW DATA” klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/3.png)
+<Image img={require('/img/mra-og/create-booking/3.png')} />
 
 Pada gambar di atas MRA akan di arahkan untuk mengisi data unit kendaraan, setelah semua nya terisi dilanjutkan mengisi data customer seperti di bawah ini.
 

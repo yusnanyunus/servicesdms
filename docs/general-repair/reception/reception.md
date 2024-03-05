@@ -2,17 +2,20 @@
 sidebar_position: 3
 id: reception
 title: Reception
+toc_max_heading_level: 4
+hide_title: true
 tags: [reception, service advisor, SA, panggil antrian, reception queue, dashboard]
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Image from '@theme/IdealImage';
 
 ## **Find Vehicle/Customer**
 
 Untuk mencari unit klik menu **Reception - Vehicle Unit**. 
 
-![Docusaurus Plushie](/img/general-repair/reception/10.png)
+<Image img={require('/img/general-repair/reception/10.png')} />
 
 Pencarian unit dilakukan menggunakan beberapa metode antara lain:
 1. Plat Number
@@ -45,11 +48,11 @@ Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, m
 
 Setelah hasil pencarian muncul klik tombol ![Docusaurus Plushie](/img/general-repair/reception/newdata.png) klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
-![Docusaurus Plushie](/img/general-repair/reception/6.png)
+<Image img={require('/img/general-repair/reception/6.png')} />
 
 Pada gambar di atas Service Advisor akan di arahkan untuk mengisi data unit kendaraan, setelah semua nya terisi dilanjutkan mengisi data customer seperti di bawah ini.
 
-![Docusaurus Plushie](/img/general-repair/reception/7.png)
+<Image img={require('/img/general-repair/reception/7.png')} />
 
 :::tip Note
 
