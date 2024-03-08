@@ -28,7 +28,7 @@ Caranya ialah dengan memasukkan nomor plat secara lengkap atau bisa juga dengan 
 
 Setelah identitas customer muncul klik tombol "choose" untuk melanjutkan ke proses pembuatan **Create Booking**.
 
-lalu pada bagian kanan tampilan klik button <Image img={require('/img/mra-og/create-booking/booking.png')} /> seperti gambar di bawah ini.
+lalu pada bagian kanan tampilan klik button ![Docusaurus Plushie](/img/mra-og/create-booking/booking.png) seperti gambar di bawah ini.
 
 <Image img={require('/img/mra-og/create-booking/1.1.png')} />
 
@@ -41,13 +41,13 @@ Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, m
 
 Setelah hasil pencarian muncul klik tombol “NEW DATA” klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
-<Image img={require('/img/mra-og/create-booking/3.png')} />
+<Image img={require('/img/mra-og/create-booking/3.1.png')} />
 
 Pada gambar di atas MRA akan di arahkan untuk mengisi data unit kendaraan, setelah semua nya terisi dilanjutkan mengisi data customer seperti di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/4.png)
+<Image img={require('/img/mra-og/create-booking/4.png')} />
 
-:::tip Note
+:::note[Note]
 
 Pada bagian Field **Customer Name**, nama nama kustomer sebelumnya sudah terinput di database, jika MRA mau menambahkan data customer yang belum ada, silahkan klik menu **General** -> lalu pilih dan klik **Customer** -> klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/newrecord.png) akan muncul tampilan form dan buat data kustomer baru, lihat di bagian **[Create New Customer](https://dms-service.netlify.app/docs/general#customer)**
 
@@ -55,14 +55,14 @@ Pada bagian Field **Customer Name**, nama nama kustomer sebelumnya sudah terinpu
 
 Setelah Vehicle Details dan Customer Details terisi lengkap, klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/saveform.png) lalu akan muncul tampilan seperti dibawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/5.png)
+<Image img={require('/img/mra-og/create-booking/5.png')} />
 
 Pada halaman ini klik tab **Contact Person** maka MRA di wajibkan untuk mengisi data singkat customer yang membawa kendaraan, lihat gambar di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/6.png)
+<Image img={require('/img/mra-og/create-booking/6.png')} />
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/newcontact.png).
+1. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/newcontact.png)
 2. Lengkapi inputan yang mandatori*
 3. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/save.png)
 4. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/booking.png)
@@ -71,13 +71,13 @@ Setelah data **Contact Person** terisi, pada bagian kanan atas tampilan klik tom
 
 Silahkan lengkapi form order dibawah ini.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/7.png)
+<Image img={require('/img/mra-og/create-booking/7.png')} />
 
 Setelah form di atas lengkapi, klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/saveform.png), dan nomor booking telah terbit.
 
 Lalu dilanjutkan untuk penginputan Job Order yang merupakan proses mandatori yang ada di order booking.
 
-![Docusaurus Plushie](/img/mra-og/create-booking/8.png)xxx
+<Image img={require('/img/mra-og/create-booking/8.png')} />xxx
 
 | Nama Kolom | Deskripsi |
 |--------|--------|
@@ -100,10 +100,10 @@ Lalu dilanjutkan untuk penginputan Job Order yang merupakan proses mandatori yan
 |Subtotal On Customer | Nilai tagihan yang ditanggung langsung oleh kustomer|
 |Sublet	| **YES** : Jika pengerjaan luar bengkel, **NO** : bukan pengerjaan luar bengkel|
 
-![Docusaurus Plushie](/img/mra-og/create-booking/9.png)
+<Image img={require('/img/mra-og/create-booking/9.png')} />
 
 Keterangan :
-1. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/addjoborder.png).
+1. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/addjoborder.png)
 2. Lengkapi inputan yang mandatori*
 3. Klik tombol ![Docusaurus Plushie](/img/mra-og/create-booking/save.png)
 
@@ -117,37 +117,37 @@ Keterangan :
 
 akan muncul tampilan seperti dibawah ini.
 
-![Docusaurus Plushie](/img/mra-og/reminder/2.png)
+<Image img={require('/img/mra-og/reminder/2.png')} />
 
 untuk memulai melakukan reminder, silahkan centang terlebih dahulu customer pada list view lalu klik button ![Docusaurus Plushie](/img/mra-og/reminder/blast.png)
 
-![Docusaurus Plushie](/img/mra-og/reminder/3.png)
+<Image img={require('/img/mra-og/reminder/3.png')} />
 
 maka icon centang tersebut berubah menjadi button ![Docusaurus Plushie](/img/mra-og/reminder/tigatitik.png)
 
-![Docusaurus Plushie](/img/mra-og/reminder/4.png)
+<Image img={require('/img/mra-og/reminder/4.png')} />
 
 silahkan klik button tersebut lalu klik button **Edit**
 
-![Docusaurus Plushie](/img/mra-og/reminder/5.png)
+<Image img={require('/img/mra-og/reminder/5.png')} />
 
 maka akan muncul tampilan seperti dibawah ini.
 
-![Docusaurus Plushie](/img/mra-og/reminder/6.png)
+<Image img={require('/img/mra-og/reminder/6.png')} />
 
 silahkan centang salah satu atau lebih jenis reminder yang diterapkan ke customer.
 
-![Docusaurus Plushie](/img/mra-og/reminder/7.png)
+<Image img={require('/img/mra-og/reminder/7.png')} />
 
 jika customer bersedia datang servis di kemudian hari silahkan centang **booking** lalu isi tanggal di samping nya setelah itu klik button ![Docusaurus Plushie](/img/mra-og/reminder/booking.png) di bagian kanan bawah tampilan, maka secara otomatis akan di arahkan ke menu booking.
 
 setelah semua selesai dicentang dan di isi klik **Save**
 
-![Docusaurus Plushie](/img/mra-og/reminder/8.png)
+<Image img={require('/img/mra-og/reminder/8.png')} />
 
-klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Docusaurus Plushie](/img/mra-og/reminder/download.png).
+klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Docusaurus Plushie](/img/mra-og/reminder/download.png) .
 
-![Docusaurus Plushie](/img/mra-og/reminder/9.png)
+<Image img={require('/img/mra-og/reminder/9.png')} />
 
 ### **Reschedule**
 
@@ -157,7 +157,7 @@ klik pada bagian kanan atas untuk mendownload laporan reminder klik button ![Doc
 
 maka akan muncul tampilan seperti dibawah ini, pada bagian kanan tampilan klik button seperti pada gambar di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/reschedule/2.png)
+<Image img={require('/img/mra-og/reschedule/2.png')} />
 
 maka pilihan yang muncul ialah sebagai berikut :
 
@@ -172,13 +172,13 @@ maka pilihan yang muncul ialah sebagai berikut :
 
 sebagai contoh penulis memilih **Late** maka data yang akan muncul seperti di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/reschedule/4.png)
+<Image img={require('/img/mra-og/reschedule/4.png')} />
 
 pada bagian kiri ujung list view klik button ![Docusaurus Plushie](/img/mra-og/reschedule/tigatitik.png) lalu klik button ![Docusaurus Plushie](/img/mra-og/reschedule/reschedule.png)
 
-![Docusaurus Plushie](/img/mra-og/reschedule/5.png)
+<Image img={require('/img/mra-og/reschedule/5.png')} />
 
-maka akan muncul form seperti dibawah ini, pada inputan **Reschedule Booking To** masukkan tanggal reschedule nya lalu klik button ![Docusaurus Plushie](/img/mra-og/reschedule/red-reschedule.png)
+maka akan muncul form seperti dibawah ini, pada inputan **Reschedule Booking To** masukkan tanggal reschedule nya lalu klik button ![Docusaurus Plushie](/img/mra-og/reschedule/red-reschedule.png) 
 
 ![Docusaurus Plushie](/img/mra-og/reschedule/6.png)
 
@@ -194,7 +194,7 @@ maka akan muncul pesan *SUCCESS* seperti dibawah ini.
 
 maka akan muncul tampilan seperti dibawah ini, pada bagian kanan tampilan klik button seperti pada gambar di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/cancel-booking/2.png)
+<Image img={require('/img/mra-og/cancel-booking/2.png')} />
 
 maka pilihan yang muncul ialah sebagai berikut :
 
@@ -209,11 +209,11 @@ maka pilihan yang muncul ialah sebagai berikut :
 
 sebagai contoh penulis memilih **Late** maka data yang akan muncul seperti di bawah ini.
 
-![Docusaurus Plushie](/img/mra-og/cancel-booking/4.png)
+<Image img={require('/img/mra-og/cancel-booking/4.png')} />
 
 pada bagian kiri ujung list view klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/tigatitik.png) lalu klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/cancel.png)
 
-![Docusaurus Plushie](/img/mra-og/cancel-booking/5.png)
+<Image img={require('/img/mra-og/cancel-booking/5.png')} />
 
 maka akan muncul form seperti dibawah ini, pada inputan **Reason Cancel** masukkan alasan kustomer batal booking lalu klik button ![Docusaurus Plushie](/img/mra-og/cancel-booking/save.png)
 

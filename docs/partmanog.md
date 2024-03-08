@@ -13,7 +13,7 @@ Bagian ini akan menjelaskan secara terperinci proses-proses pada aplikasi DMS Se
 ---
 ### **Part Purchase Order**
 
-:::info
+:::warning INFO
 
 proses ini membutuhkan approval
 
@@ -192,6 +192,7 @@ setelah form selesai di input, silahkan klik button ![Docusaurus Plushie](/img/p
 
 
 ---
+<!--
 ### **Part Transfer Request**
 
 :::info
@@ -255,7 +256,7 @@ klik button ![Docusaurus Plushie](/img/partman-og/part-transfer/supplypart.png) 
 silahkan cek di menu **Part transfer list** status transfer berubah menjadi **Approved**, artinya part telah di terima oleh cabang yang dituju.
 
 ![Docusaurus Plushie](/img/partman-og/part-transfer/12.png)
-
+--->
 ---
 ### **Part Stock**
 

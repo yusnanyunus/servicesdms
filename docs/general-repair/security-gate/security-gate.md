@@ -5,6 +5,8 @@ title: Security Gate
 tags: [security, nomor antrian, antrian customer]
 ---
 
+import Image from '@theme/IdealImage';
+
 ### **Security Gate**
 
 > Customer yang telah booking atau pun walk-in ke cabang untuk service akan di input nomor plat kendaraannya di bagian security. lalu data nomor kendaraan yang telah dimasukkan akan secara otomatis masuk ke dalam monitor sistem antrian di ruangan penerimaan service.
@@ -54,7 +56,7 @@ Aplikasi Dashboard Antrian sebaiknya dipasang dalam sebuah PC dengan layar monit
 
 Berikut adalah tampilan Dashboard Antrian:
 
-![Docusaurus Plushie](/img/general-repair/reception/1.png)
+<Image img={require('/img/general-repair/reception/1.1.png')} />
 
 Aplikasi web DMS Service yang digunakan Service Advisor untuk memanggil antrian yang sudah teregistrasi dalam sistem, berikut adalah tampilan aplikasi web DMS Service untuk Service Advisor :
 

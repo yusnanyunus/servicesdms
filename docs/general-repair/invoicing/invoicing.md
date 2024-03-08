@@ -58,7 +58,7 @@ maka akan muncul alert **Calculation Success** yang menandakan proses kalkulasi 
 ---
 
 ### **Proforma Invoice**
-> Proforma invoice ialah estimasi servis atau invoice sementara yang di berikan ke pihak customer sebelum menerbitkan invoice yang asli,dengan cara klik menu **Billing - Invoicing**
+> Proforma invoice adalah dokumen komersial yang berfungsi sebagai perkiraan tagihan untuk barang atau jasa yang akan dikirimkan. Proforma invoice tidak memiliki status hukum yang sama seperti faktur pajak, namun, itu memberikan informasi rinci tentang biaya yang terkait dengan transaksi perdagangan internasional. Dokumen ini umumnya digunakan sebelum pengiriman sebenarnya sebagai bentuk prakiraan atau estimasi untuk membantu pembeli dan penjual merencanakan dan mengatur transaksi dengan lebih baik. dengan kata lain Proforma invoice ialah estimasi servis atau invoice sementara yang di berikan ke pihak customer sebelum menerbitkan invoice yang asli,dengan cara klik menu **Billing - Invoicing**
 
 lalu akan muncul tampilan seperti dibawah ini
 

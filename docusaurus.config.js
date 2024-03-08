@@ -1,9 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DEALER MANAGEMENT SYSTEM',
@@ -49,10 +46,9 @@ const config = {
         max: 1030, // max resized image's size.
         min: 640, // min resized image's size. if original is lower, use that size.
         steps: 2, // the max number of images generated between min and max (inclusive)
-        disableInDev: true,
+        disableInDev: false,
       },
     ],
-
   ],
 
   themeConfig:
@@ -77,10 +73,6 @@ const config = {
       footer: {
         style: 'light',
         copyright: `Copyright © 2022 DMS Services, Inc. Built with CICT Kalla Group.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
       },
 
         //imageZoom: {

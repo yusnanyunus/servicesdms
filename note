@@ -48,3 +48,8 @@ GR, BP,
   
   </TabItem>
 </Tabs>
+
+
+<Image img={require('/img/mra-og/create-booking/1.png')} />
+
+![Docusaurus Plushie](/img/mra-og/create-booking/booking.png)

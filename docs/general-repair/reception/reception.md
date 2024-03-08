@@ -48,7 +48,7 @@ Dengan cara masukkan angka atau huruf secara acak, misalnya xyz,123 atau xy34, m
 
 Setelah hasil pencarian muncul klik tombol ![Docusaurus Plushie](/img/general-repair/reception/newdata.png) klik tombol tersebut, maka kita akan di arahkan untuk melanjutkan ke proses pembuatan data customer baru, seperti dibawah ini.
 
-<Image img={require('/img/general-repair/reception/6.png')} />
+<Image img={require('/img/mra-og/create-booking/3.1.png')} />
 
 Pada gambar di atas Service Advisor akan di arahkan untuk mengisi data unit kendaraan, setelah semua nya terisi dilanjutkan mengisi data customer seperti di bawah ini.
 
@@ -169,7 +169,7 @@ Service Advisor dapat meng-input jenis pekerjaan/Job yang akan dilakukan pada ta
 
 ## **Create Estimation**
 
-> Halaman ini digunakan untuk membuat form biaya estimasi servis, sebelum nomor Work Order terbit
+> Form Estimation yang digunakan untuk memberikan perkiraan biaya kepada pelanggan untuk layanan perbaikan atau pemeliharaan mobil. Fungsi dari form estimasi ini adalah memberikan informasi kepada pelanggan tentang perkiraan biaya dan jenis pekerjaan yang akan dilakukan pada kendaraan mereka dengan kata lain halaman ini digunakan untuk membuat form biaya estimasi servis, sebelum nomor Work Order terbit
 
 ![Docusaurus Plushie](/img/general-repair/reception/15.png)
 
@@ -234,7 +234,7 @@ setelah itu silahkan isi pada bagian tab **[Customer Request](#customer-request)
 ---
 ## **Create Diagnostic**
 
-> Halaman ini digunakan untuk membuat form analisa kerusakan, sebelum nomor Work Order terbit
+> Form Diagnostic digunakan untuk mengumpulkan informasi dan hasil dari proses diagnosis kendaraan. Fungsi formulir ini sangat penting dalam membantu foreman dan teknisi bengkel mengidentifikasi masalah dan merencanakan tindakan perbaikan yang diperlukan, dengan kata lain halaman ini digunakan untuk membuat form analisa kerusakan, sebelum nomor Work Order terbit
 
 ![Docusaurus Plushie](/img/general-repair/reception/16.png)
 
