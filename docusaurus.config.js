@@ -67,7 +67,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: 'blog', label: 'FAQ', position: 'left'},
+          ///{to: 'blog', label: 'FAQ', position: 'left'},
         ],
       },
       footer: {
@@ -93,3 +93,8 @@ const config = {
     }),
 };
 module.exports = config;
+//module.exports = {
+//  // ...
+//  onBrokenLinks: 'warn', // or 'ignore'
+//  // ...
+//};

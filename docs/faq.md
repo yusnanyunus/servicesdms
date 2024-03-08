@@ -22,7 +22,6 @@ hide_title: true
 
 **A :** Error tersebut muncul pada saat Service Advisor belum mengisi tanggal follow up customer, di proses ini service advisor wajib mengisi tanggal follow up, 
 
-lihat di bagian **[Document Checking](docs/general-repair/doc-checking/)**
 
 ---
 
@@ -34,7 +33,6 @@ lihat di bagian **[Document Checking](docs/general-repair/doc-checking/)**
 
 **A :** Error tersebut muncul pada saat Service Advisor belum mengisi data kustomer yang membawa unit kendaraan ke bengkel, silahkan klik link di dibawah ini jika belum mengetahui cara mengisi data contact person di Work order 
 
-**[Contact person](docs/general-repair/reception/#kustomer-tidak-terdaftar)** *lalu scroll kebawah*
 
 ---
 
@@ -46,7 +44,6 @@ lihat di bagian **[Document Checking](docs/general-repair/doc-checking/)**
 
 **A :** Error tersebut muncul pada saat Partman belum melakukan proses **Picked** part yaitu proses mengeluarkan part dari stok nya, cek disini cara mengeluarkan part dari stoknya, 
 
-lihat di bagian **[Service Part Supply](docs/partmanog#service-part-supply)**
 
 ---
 
@@ -57,8 +54,6 @@ lihat di bagian **[Service Part Supply](docs/partmanog#service-part-supply)**
 ![Docusaurus Plushie](/img/faq/bpactionnoselected.png)
 
 **A :** Error tersebut muncul pada saat PTM atau Foreman belum mengisi atau melakukan chekclist pada tab BP Action, untuk mengatasi error tersebut silahkan klik link di bawah ini 
-
-lihat di bagian **[Job Distribution](docs/general-repair/job-distribution/#bp-action)**
 
 ---
 
@@ -74,7 +69,6 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan diskon di DMS service
 
-**[Create new discount](/../docs/general#discount)**
 
 ---
 
@@ -90,7 +84,6 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan insurance yang baru di DMS service
 
-**[Create new insurance](docs/general#insurance)**
 
 ---
 
@@ -105,5 +98,3 @@ Bagian ini bisa di lakukan khusus untuk **Aftersales Head Office**
 **Q :** Saya ingin menambahkan data program yang belum ada di aplikasi DMS service, contohnya seperti FREE JASA (INTERNAL), bagaimana caranya?
 
 **A :** silahkan klik link dibawah ini untuk melihat cara menambahkan program baru di DMS service
-
-**[Create new program](docs/general#program)**

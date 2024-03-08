@@ -96,7 +96,31 @@ setelah data kustomer muncul maka di lanjutkan untuk klik button ![Docusaurus Pl
 
 ## **Form WAC**
 
-> Form WAC (Walk Arround Check) digunakan untuk mencetak lembaran pengecekan terhadap unit kendaraan yang akan diservis. 
+> Form WAC (Walk Arround Check) adalah prosedur di bengkel mobil yang melibatkan pemeriksaan fisik kendaraan sebelum memulai pekerjaan perbaikan atau pemeliharaan dengan kata lain digunakan untuk mencetak lembaran pengecekan terhadap unit kendaraan yang akan diservis. Berikut adalah beberapa fungsi dari walkaround check pada bengkel mobil:
+
+1. **Identifikasi Kerusakan atau Masalah Awal**:
+Pemeriksaan sekeliling kendaraan membantu teknisi atau petugas bengkel mengidentifikasi kerusakan atau masalah awal pada kendaraan sebelum memulai pekerjaan resmi. Ini memungkinkan mereka untuk segera menangani masalah yang terdeteksi.
+
+2. **Pengecekan Visual Komponen Penting**:
+Melibatkan pemeriksaan visual pada komponen penting seperti lampu, kaca, wiper, dan sistem pengereman. Pemeriksaan ini dapat membantu mencegah kecelakaan atau masalah keselamatan yang mungkin muncul karena komponen yang rusak atau tidak berfungsi.
+
+3. **Pengelolaan Harapan Pelanggan**:
+Jika kendaraan ditinggalkan oleh pelanggan untuk perbaikan atau pemeliharaan, walkaround check dapat digunakan untuk mengelola harapan pelanggan. Pemeriksaan ini dapat mengidentifikasi masalah yang mungkin ditemukan dan memberikan estimasi awal mengenai pekerjaan yang perlu dilakukan.
+
+4. **Pemantauan Kilometer atau Jam Mesin**:
+Walkaround check dapat mencakup pemantauan kilometer atau jam mesin kendaraan. Informasi ini dapat membantu bengkel dalam menentukan pemeliharaan berkala atau perbaikan yang mungkin diperlukan berdasarkan pemakaian kendaraan.
+
+5. **Pemantauan Tingkat Bahan Bakar dan Cairan**:
+Pemeriksaan tingkat bahan bakar dan cairan seperti minyak mesin, pendingin, dan cairan lainnya. Hal ini penting untuk memastikan kendaraan beroperasi pada tingkat optimal dan mencegah potensi kerusakan akibat kekurangan cairan.
+
+6. **Penandaan Kerusakan atau Masalah**:
+Walkaround check sering melibatkan penandaan atau dokumentasi kerusakan atau masalah yang ditemukan. Ini dapat mencakup penggunaan foto atau catatan tertulis untuk memberikan bukti dan dokumentasi yang akurat.
+
+7. **Pencegahan Kesalahan Pekerjaan**:
+Dengan mengidentifikasi masalah awal, walkaround check dapat membantu mencegah kesalahan pekerjaan yang dapat terjadi jika masalah tidak terdeteksi dengan cepat.
+
+8. **Peningkatan Keamanan**:
+Pemeriksaan sekeliling kendaraan juga dapat meningkatkan keamanan, khususnya dengan memastikan bahwa semua lampu dan sistem keselamatan lainnya berfungsi dengan baik.
 
 ![Docusaurus Plushie](/img/general-repair/reception/41.png)
 
